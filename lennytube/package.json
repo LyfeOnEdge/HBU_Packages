@@ -1,0 +1,20 @@
+{
+    "name": "lennytube",
+    "author": "noirscape",
+    "description": "Youtube on the Nintendo Switch.\n\nRationale\nThe YouTube title on the Switch is only usable if one is not banned, since the title in question logs in on Nintendo Network. Whilst it's possible to bypass this by patching the YouTube app, this is far from ideal as the resulting file is not allowed to be shared.\n\nThis application aims to circumvent that last problem by launching it's own WifiApplet, meaning no copyrighted data is ever involved.\n\nLimitations\nDesktop mode only (TV mode is inaccessible, Mobile doesn't play videos properly).\nWorks only from APPLICATION mode (it will display a warning and instructions how to do this if you're still running from APPLET).",
+    "install_subfolder": "switch",
+    "pattern": [
+        [
+            "lennytube"
+        ],
+        ".nro"
+    ],
+    "package": "lennytube",
+    "release_api": "https://api.github.com/repos/noirscape/lennytube/releases",
+    "website": "https://gbatemp.net/threads/lennytube-homebrew-youtube-nro.545824/",
+    "category": "media",
+    "tags": [
+        "video player",
+        "media"
+    ]
+}

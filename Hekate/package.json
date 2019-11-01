@@ -1,0 +1,24 @@
+{
+    "name": "Hekate Payload",
+    "author": "CTCaer",
+    "description": "Custom Nintendo Switch bootloader, firmware patcher, and more.\nThis version supports booting ALL current OS/CS CFW, Linux chainloading and payload tools.\nNo more SD card removals",
+    "payload": [
+        "hekate_ctcaer",
+        ".bin"
+    ],
+    "pattern": [
+        [
+            "hekate_ctcaer"
+        ],
+        ".zip"
+    ],
+    "install_subfolder": "hekate",
+    "package": "Hekate",
+    "release_api": "https://api.github.com/repos/CTCaer/hekate/releases",
+    "website": "https://gbatemp.net/threads/rcm-payload-hekate-ctcaer-mod.502604/",
+    "category": "payloads",
+    "tags": [
+        "PAYLOADS",
+        "payloads"
+    ]
+}

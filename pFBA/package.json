@@ -1,0 +1,21 @@
+{
+    "name": "pFBA: final burn alpha",
+    "author": "Cpasjuste",
+    "description": "final burn alpha emulator",
+    "install_subfolder": "switch/pfba",
+    "pattern": [
+        [
+            "pfba"
+        ],
+        "switch.zip"
+    ],
+    "license": "n/a",
+    "package": "pFBA",
+    "release_api": "https://api.github.com/repos/Cpasjuste/pemu/releases",
+    "website": "https://github.com/Cpasjuste/pemu",
+    "category": "emulators",
+    "tags": [
+        "emu",
+        "emulators"
+    ]
+}

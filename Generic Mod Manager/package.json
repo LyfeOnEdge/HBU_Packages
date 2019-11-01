@@ -1,0 +1,20 @@
+{
+    "name": "Generic Mod Manager",
+    "author": "Genwald",
+    "description": "Generic Mod Manager is a simple mod manager written in python, for use with the homebrew PyNX. \nIt lets you easily activate and deactivate mods as well as handle conflicting mod files. Its mods folder and layeredFS folder can be set in the ModManager.ini in order to support multiple cfw's and user preferences.",
+    "install_subfolder": "switch\\PyNX",
+    "pattern": [
+        [
+            "Generic-Mod-Manager"
+        ],
+        ".py"
+    ],
+    "package": "Generic Mod Manager",
+    "release_api": "https://api.github.com/repos/Genwald/Generic-Mod-Manager/releases",
+    "website": "https://gbatemp.net/threads/generic-mod-manager-a-mod-manager.517626/",
+    "category": "python",
+    "tags": [
+        "tool",
+        "python"
+    ]
+}

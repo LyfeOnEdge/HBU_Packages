@@ -1,0 +1,21 @@
+{
+    "name": "Ken's Labyrinth",
+    "author": "sacredbanana",
+    "description": "Classic MS-DOS shooter with enhanced features such as HD textures and 60fps support",
+    "install_subfolder": "switch",
+    "pattern": [
+        [
+            "Kens-Labyrinth"
+        ],
+        ".zip"
+    ],
+    "license": "n/a",
+    "package": "Kens-Labyrinth",
+    "release_api": "https://api.github.com/repos/sacredbanana/lab3d-sdl/releases",
+    "website": "https://gbatemp.net/threads/kens-labyrinth-enhanced-port-for-nintendo-switch.529434/",
+    "category": "games",
+    "tags": [
+        "game",
+        "games"
+    ]
+}

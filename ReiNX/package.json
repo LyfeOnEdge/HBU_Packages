@@ -1,0 +1,20 @@
+{
+    "name": "ReiNX",
+    "author": "Reisyukaku",
+    "description": "A modular Switch custom firmware",
+    "install_subfolder": null,
+    "pattern": [
+        [
+            "reinx"
+        ],
+        ".zip"
+    ],
+    "package": "ReiNX",
+    "release_api": "https://api.github.com/repos/Reisyukaku/ReiNX/releases",
+    "website": "https://github.com/Reisyukaku/ReiNX",
+    "category": "cfw",
+    "tags": [
+        "CFW",
+        "cfw"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "name": "ScummVM",
+    "author": "Cpasjuste",
+    "description": "Here is a port of the excellent ScummVM engine to the switch.\\n\\nKNOW BUGS\\nno sfx in some scumm engine games (curse of monkey island, full throttle) ! :(\\nintro in the secret of monkey island CD version hang, audio play fine and can be skipped. Other versions seems to works fine.\\nmp3 decoder doesn't seems to work (crash), but this format should not be used anyway.",
+    "install_subfolder": "switch",
+    "pattern": [
+        [
+            "scummvm_switch"
+        ],
+        ".zip"
+    ],
+    "license": "n/a",
+    "package": "scummvm",
+    "release_api": "https://api.github.com/repos/Cpasjuste/scummvm/releases",
+    "website": "https://github.com/Cpasjuste/scummvm/",
+    "category": "emulators",
+    "tags": [
+        "emu",
+        "emulators"
+    ]
+}

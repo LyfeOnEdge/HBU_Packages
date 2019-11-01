@@ -1,0 +1,21 @@
+{
+    "name": "NX-Shell",
+    "author": "joel16",
+    "description": "Work in progress port of 3DShell (Multi purpose file manager) to the Nintendo Switch.",
+    "install_subfolder": "switch/NX-Shell",
+    "pattern": [
+        [
+            "NX-Shell"
+        ],
+        ".nro"
+    ],
+    "license": "GPL3",
+    "package": "NX-shell",
+    "release_api": "https://api.github.com/repos/joel16/NX-Shell/releases",
+    "website": "https://gbatemp.net/threads/nx-shell-multipurpose-file-manager-for-nintendo-switch.505332/",
+    "category": "homebrew",
+    "tags": [
+        "tool",
+        "homebrew"
+    ]
+}

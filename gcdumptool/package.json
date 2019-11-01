@@ -1,0 +1,21 @@
+{
+    "name": "nxdumptool",
+    "author": "DarkMatterCore",
+    "description": "Nintendo Switch Game Card Dump Tool\nMain features:\n- Generates full Cartridge Image dumps (XCI) with optional certificate removal and optional trimming.\n- Generates installable Nintendo Submission Packages (NSP) from base applications, updates and DLCs stored in the inserted game card.\n- Compatible with multigame carts.\n- CRC32 checksum calculation for XCI/NSP dumps.\n- Full XCI dump verification using XML database from NSWDB.COM (NSWreleases.xml).XML database and in-app update via libcurl.\n- Precise HFS0 raw partition dumping, using the root HFS0 header from the game card.\n- HFS0 partition file data dumping.\n- HFS0 partition file browser with manual file dump support.\n- RomFS section file data dumping.\n- RomFS section file browser with manual file dump support.\n- Manual game card certificate dump.\n- Free SD card space checks in place.\n- File splitting support for all operations.\n- Game card metadata retrieval using NCM and NS services.\n- Dump speed calculation, ETA calculation and progress bar.\nCompatibility:\n- Doesn't work under 1.0.0, and probably never will. The application needs some IPC calls that are only available from 2.0.0 onwards.\n- Doesn't work under FW > 1.0.0 and < 4.0.0 if the application is launched using PegaSwitch. This is because PegaSwitch doesn't give full access permissions to the application. This is a known bug that's being looked into.\n- Works under SX OS v1.2 and later, but only is your Switch is on FW > 1.0.0.\n- When used with the inserted gamecard, the NSP dumping, ExeFS dumping/browsing and RomFS dumping/browsing capabilities depend entirely on the FW version the console is on. This is because the SPL services are used to decrypt the NCA key area directly without deriving for key area encryption keys. If the console is not updated to a FW version that supports the crypto/keyslot used by the inserted gamecard, these features will fail.\n- NSP dumping, ExeFS dumping/browsing and RomFS dumping/browsing capabilities for installed SD/eMMC require the \"sdmc:/switch/prod.keys\" file. Likewise, update NSP dumping from gamecards requires this file to be available. Use Lockpick_RCM to generate it.\n- If you go back to Horizon and get an error or black screen when trying to launch the inserted gamecard, just pull it out and re-insert it. No reboot needed. Any help on fixing this bug will be greatly appreciated.\n",
+    "install_subfolder": "switch/gcdumptool",
+    "pattern": [
+        [
+            "nxdumptool"
+        ],
+        ".nro"
+    ],
+    "license": "GPL2",
+    "package": "gcdumptool",
+    "release_api": "https://api.github.com/repos/DarkMatterCore/nxdumptool/releases",
+    "website": "https://gbatemp.net/threads/nxdumptool-nintendo-switch-dump-tool.508343/",
+    "category": "homebrew",
+    "tags": [
+        "tool",
+        "homebrew"
+    ]
+}

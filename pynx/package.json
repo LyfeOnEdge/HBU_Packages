@@ -1,0 +1,21 @@
+{
+    "name": "PyNX",
+    "author": "elnardu",
+    "description": "nx-python is an ecosystem for developing and running Python homebrew applications on the Nintendo Switch. \n\nPyNX serves as the entry point to running Python apps on your Switch. It is a homebrew app that contains a port of the CPython interpreter and allows you to run Python applications from the Homebrew Menu. Just name your application main.py and place it next to the PyNX.nro, and it will be executed as soon as you launch PyNX from the Homebrew Menu. Currently, Python 3.5 is supported.",
+    "install_subfolder": "switch",
+    "pattern": [
+        [
+            "PyNX"
+        ],
+        ".zip"
+    ],
+    "license": "ISC License",
+    "package": "pynx",
+    "release_api": "https://api.github.com/repos/nx-python/PyNX/releases",
+    "website": "https://gbatemp.net/threads/nx-python-create-python-homebrew-for-the-switch.499150/",
+    "category": "python",
+    "tags": [
+        "interpreter",
+        "python"
+    ]
+}

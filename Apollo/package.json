@@ -1,0 +1,20 @@
+{
+    "name": "Apollo",
+    "author": "evo-brut3",
+    "description": "Apollo is a File Explorer Homebrew for the Nintendo Switch. Its goal is to be the most convenient and reliable method to manage console's files.\n\nApollo's current features are:\n-Graphical User Interface: Minimalist design which is based on default hbmenu and official home menu esthetic.\n-Selecting items: A simple but mandatory feature.\n-Copying files and directories: Before doing so, application checks whether user is trying to overwrite currently existing files or directories and then asks about overwriting them.\n-Recursive directory deletion: It allows for complete deletion of directories' content and obviously for file deletion.\n-Renaming files and directories: Speaks for itself.\n-Sorting items: Alphabetically or reversed.\n\nCredits:\ndevkitPro for providing toolchain.\nXorTroll for the amazing Plutonium which allowed Apollo to look like this and the Goldleaf which is a mine of knowledge.\nGilFerraz for his beautiful Miiverse UI concept which inspired me to create sidebar.\nLucas Lacerda for his Nintendo Switch UI Concept.\njaames for the nx-hbmenu mockup which helped me with the design.\nNintendo for security <3.\n",
+    "install_subfolder": "switch/Apollo",
+    "pattern": [
+        [
+            "Apollo"
+        ],
+        ".nro"
+    ],
+    "package": "Apollo",
+    "release_api": "https://api.github.com/repos/evo-brut3/Apollo/releases",
+    "website": "https://gbatemp.net/threads/apollo-file-explorer-for-nintendo-switch.543080/",
+    "category": "homebrew",
+    "tags": [
+        "tool",
+        "homebrew"
+    ]
+}

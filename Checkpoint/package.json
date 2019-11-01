@@ -1,0 +1,22 @@
+{
+    "name": "Checkpoint",
+    "author": "FlagBrew",
+    "description": "A fast and simple homebrew save manager for 3DS and Switch written in C++.",
+    "install_subfolder": "switch/Checkpoint",
+    "pattern": [
+        [
+            "Checkpoint"
+        ],
+        ".nro"
+    ],
+    "license": "GPL3",
+    "tags": [
+        "save tool",
+        "save manager",
+        "homebrew"
+    ],
+    "package": "Checkpoint",
+    "release_api": "https://api.github.com/repos/FlagBrew/Checkpoint/releases",
+    "website": "https://gbatemp.net/threads/checkpoint-save-manager-released-for-nintendo-switch.503370/",
+    "category": "homebrew"
+}

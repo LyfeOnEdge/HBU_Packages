@@ -1,0 +1,22 @@
+{
+    "name": "sys-audioplayer",
+    "author": "KranKRival",
+    "description": "sys-audioplayer updated for official firmware 9\nThis is a WIP background-audio-player as a custom Boot2 sysmodule for the Nintendo Switch.\n\ninstructions:\nthis is developed for Atmosphere/Kosmos , Not tested on other CFW\n\nCompiled Module Goes to /atmosphere/titles/4200000000000000/exefs.nsp\nflag the Module activated by making blank file /atmosphere/titles/4200000000000000/flags/boot2.flag\nadd your songs (MP3 ONLY) to /music Directory on Root of your Sd Card\nenable the module nor by restart console, or using latest Kosmos ToolBox.\nNote:\nMusic will start playing as soon as the module is Activated\nthis is a beta version and the songs repeat 100 times by default / for future Repeat song Implementation !!!\nright now it just plays all the mp3s in the /music folder of your sdcard once the switch boots.",
+    "group": "tool",
+    "install_subfolder": null,
+    "pattern": [
+        [
+            "Sys_AudioPlayer"
+        ],
+        ".zip"
+    ],
+    "license": "GPL3",
+    "tags": [
+        "tool",
+        "homebrew"
+    ],
+    "package": "sys-audioplayer",
+    "release_api": "https://api.github.com/repos/KranKRival/sys-audioplayer/releases",
+    "website": "https://github.com/KranKRival/sys-audioplayer",
+    "category": "homebrew"
+}

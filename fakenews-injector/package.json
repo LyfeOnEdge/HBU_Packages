@@ -1,0 +1,21 @@
+{
+    "name": "fakenews-injector",
+    "author": "noahc3",
+    "description": "Simple homebrew to inject the \"Fake News\" save data for an easy browser entry point on Switch.\n\nKills BCAT, so reboot is required after use.\n\nTested on 1.0.0, 3.0.0, 4.0.1 and 4.1.0, works both in CFW and with hbl launched via PegaSwitch/PegaScape.",
+    "install_subfolder": "switch",
+    "pattern": [
+        [
+            "fakenews-injector"
+        ],
+        ".nro"
+    ],
+    "license": "GPL3",
+    "package": "fakenews-injector",
+    "release_api": "https://api.github.com/repos/noahc3/fakenews-injector/releases",
+    "website": "https://switch.homebrew.guide/hacking/nereba/pegascape",
+    "category": "homebrew",
+    "tags": [
+        "tool",
+        "homebrew"
+    ]
+}

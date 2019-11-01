@@ -1,0 +1,21 @@
+{
+    "name": "pNES",
+    "author": "Cpasjuste",
+    "description": "Portable NES Emulator",
+    "install_subfolder": "switch/pnes",
+    "pattern": [
+        [
+            "pnes"
+        ],
+        "switch.zip"
+    ],
+    "license": "n/a",
+    "package": "pNES",
+    "release_api": "https://api.github.com/repos/Cpasjuste/pemu/releases",
+    "website": "https://github.com/Cpasjuste/pemu",
+    "category": "emulators",
+    "tags": [
+        "emu",
+        "emulators"
+    ]
+}

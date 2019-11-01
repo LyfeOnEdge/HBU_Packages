@@ -1,0 +1,21 @@
+{
+    "name": "Gag-Order",
+    "author": "Adubbz",
+    "description": "A homebrew application which patches the 'Supernag' on the Nintendo Switch.",
+    "install_subfolder": "switch",
+    "pattern": [
+        [
+            "gag-order"
+        ],
+        ".nro"
+    ],
+    "license": "n/a",
+    "package": "gagorder",
+    "release_api": "https://api.github.com/repos/Adubbz/Gag-Order/releases",
+    "website": "https://github.com/Adubbz/Gag-Order/",
+    "category": "homebrew",
+    "tags": [
+        "tool",
+        "homebrew"
+    ]
+}

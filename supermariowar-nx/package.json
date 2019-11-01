@@ -1,0 +1,21 @@
+{
+    "name": "Super Mario War NX",
+    "author": "p-sam",
+    "description": "Super Mario War is, quoting the main project, a fan-made multiplayer Super Mario Bros. style deathmatch game. You can find more information about the game itself and its history on the main readme.\n\nThis uses:\n\nthe devkitA64 toolchain, libnx and multiple portlibs from devkitpro\na subrepo of supermariowar with switch specific changes\nUsage\nDownload the latest release, and extract the archive in the /switch folder on your SD Card. Then, run the game from the hbmenu using hbl.\n\nTodo\nnetworking",
+    "install_subfolder": "switch",
+    "pattern": [
+        [
+            "smw"
+        ],
+        ".zip"
+    ],
+    "license": "n/a",
+    "package": "supermariowar-nx",
+    "release_api": "https://api.github.com/repos/retronx-team/supermariowar-nx/releases",
+    "website": "https://github.com/p-sam/supermariowar-nx/releases",
+    "category": "games",
+    "tags": [
+        "game",
+        "games"
+    ]
+}

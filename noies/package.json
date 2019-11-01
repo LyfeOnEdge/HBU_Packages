@@ -1,0 +1,21 @@
+{
+    "name": "NoiES",
+    "author": "Hydr8gon",
+    "description": "A noice NES emulator",
+    "install_subfolder": null,
+    "pattern": [
+        [
+            "noies"
+        ],
+        "switch.zip"
+    ],
+    "license": "GPL3",
+    "package": "noies",
+    "release_api": "https://api.github.com/repos/Hydr8gon/NoiES/releases",
+    "website": "https://github.com/Hydr8gon/NoiES",
+    "category": "emulators",
+    "tags": [
+        "emu",
+        "emulators"
+    ]
+}

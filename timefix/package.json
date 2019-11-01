@@ -1,0 +1,21 @@
+{
+    "name": "timefix",
+    "author": "Retr0id",
+    "description": "Fixes the 'can't initialize time' bug with PyNX, this will set your system clock to something incorrect, you may want to adjust it afterwards.\nSource code by Retr0id.",
+    "install_subfolder": "switch/timefix",
+    "pattern": [
+        [
+            "timefix"
+        ],
+        ".nro"
+    ],
+    "license": null,
+    "package": "timefix",
+    "release_api": "https://api.github.com/repos/LyfeOnEdge/timefix/releases",
+    "website": "https://github.com/LyfeOnEdge/timefix",
+    "category": "python",
+    "tags": [
+        "tool",
+        "python"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "name": "TicTacToeNX",
+    "author": "lorrdfarquad",
+    "description": "My version of tic tac toe ported to the nintendo switch.",
+    "install_subfolder": "switch/TicTacToeNX",
+    "pattern": [
+        [
+            "TicTacToeNx"
+        ],
+        ".nro"
+    ],
+    "license": "n/a",
+    "package": "TicTacToeNX",
+    "release_api": "https://api.github.com/repos/lorrdfarquad/TikTacToeNX/releases",
+    "website": "https://github.com/lorrdfarquad/TikTacToeNX",
+    "category": "games",
+    "tags": [
+        "game",
+        "games"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "name": "DeSmuME-NX",
+    "author": "Laproxi",
+    "description": "Play DS roms! (in sd:/switch/desmume/roms)",
+    "install_subfolder": "switch/desmume",
+    "pattern": [
+        [
+            "DeSmuME-NX"
+        ],
+        ".nro"
+    ],
+    "license": "GPL2",
+    "package": "desmume",
+    "release_api": "https://api.github.com/repos/Laproxi/DeSmuME-NX/releases",
+    "website": "https://github.com/Laproxi/DeSmuME-NX",
+    "category": "emulators",
+    "tags": [
+        "emu",
+        "emulators"
+    ]
+}

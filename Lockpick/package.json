@@ -1,0 +1,21 @@
+{
+    "name": "Lockpick",
+    "author": "shchmue",
+    "description": "Lockpick is a ground-up C++17 rewrite of homebrew key derivation software, namely kezplez-nx. It also dumps titlekeys. This will dump all keys through *_key_05 on firmwares below 6.2.0 and through *_key_06 on 6.2.0.\n\nDue to key generation changes introduced in 7.0.0, Lockpick is not able to dump keys ending in 07 at all. Furthermore, unfortunately the public method to dump tsec_root_key is only available on firmware 6.2.0 so 7.x consoles can only dump through keys ending in 05.",
+    "install_subfolder": "switch",
+    "pattern": [
+        [
+            "Lockpick"
+        ],
+        ".nro"
+    ],
+    "license": "GPL2",
+    "package": "Lockpick",
+    "release_api": "https://api.github.com/repos/shchmue/Lockpick/releases",
+    "website": "https://github.com/shchmue/Lockpick/",
+    "category": "homebrew",
+    "tags": [
+        "tool",
+        "homebrew"
+    ]
+}

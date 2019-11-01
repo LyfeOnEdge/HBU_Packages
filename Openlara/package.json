@@ -1,0 +1,21 @@
+{
+    "name": "OpenLara",
+    "author": "XProger",
+    "description": "Classic Tomb Raider open-source engine",
+    "install_subfolder": "switch/OpenLara",
+    "pattern": [
+        [
+            "OpenLara_switch"
+        ],
+        ".zip"
+    ],
+    "license": "BSD v2",
+    "package": "Openlara",
+    "release_api": "https://api.github.com/repos/XProger/OpenLara/releases",
+    "website": "https://github.com/XProger/OpenLara",
+    "category": "games",
+    "tags": [
+        "game",
+        "games"
+    ]
+}

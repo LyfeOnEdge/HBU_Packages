@@ -1,0 +1,21 @@
+{
+    "name": "Meritous",
+    "author": "Lancer-X, nop90",
+    "description": "Top View Dungeon Game",
+    "install_subfolder": null,
+    "pattern": [
+        [
+            "Meritous"
+        ],
+        ".zip"
+    ],
+    "license": "n/a",
+    "package": "meritous",
+    "release_api": "https://api.github.com/repos/Nop90-Switch/Meritous-Switch/releases",
+    "website": "https://gbatemp.net/threads/release-meritous-for-switch.498356/",
+    "category": "games",
+    "tags": [
+        "game",
+        "games"
+    ]
+}

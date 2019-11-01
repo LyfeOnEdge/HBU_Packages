@@ -1,0 +1,21 @@
+{
+    "name": "VBA Next",
+    "author": "RSDuck",
+    "description": "A VBA-M port for Nintendo Switch. It's based of the libretro port(the actual emulator) and 3DSGBA(the GUI, although heavily refactored).\n\nAfter porting 3DSGBA(which often crashed probably because of a huge amount of memory leaks), I tried porting mGBA which ran not so well. That's why I decided to experiment with a lighter less accurate emulator, which lead to this port.",
+    "install_subfolder": "switch/VBA_NEXT",
+    "pattern": [
+        [
+            "vba-next"
+        ],
+        ".zip"
+    ],
+    "license": "GPL2",
+    "package": "VBA_NEXT",
+    "release_api": "https://api.github.com/repos/RSDuck/vba-next-switch/releases",
+    "website": "https://gbatemp.net/threads/vba-next-for-switch-works-4-1.504947/",
+    "category": "emulators",
+    "tags": [
+        "emu",
+        "emulators"
+    ]
+}

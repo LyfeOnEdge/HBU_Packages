@@ -1,0 +1,24 @@
+{
+    "name": "fusee-primary",
+    "author": "Atmosphere-NX",
+    "description": "Bootloader for Atmosphere",
+    "pattern": [
+        [
+            "fusee-primary"
+        ],
+        ".bin"
+    ],
+    "payload": [
+        "fusee-primary",
+        ".bin"
+    ],
+    "install_subfolder": "fusee-primary",
+    "package": "fusee-primary",
+    "release_api": "https://api.github.com/repos/Atmosphere-NX/Atmosphere/releases",
+    "website": "https://github.com/Atmosphere-NX/Atmosphere/tree/master/fusee/fusee-primary",
+    "category": "payloads",
+    "tags": [
+        "PAYLOADS",
+        "payloads"
+    ]
+}

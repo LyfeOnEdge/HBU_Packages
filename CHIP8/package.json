@@ -1,0 +1,21 @@
+{
+    "name": "CHIP8-NX",
+    "author": "Marice",
+    "description": "A working early stage CHIP8 emulator for the Nintendo Switch.\\n\\nFeel free to help and improve the code!\\n\\nExit to HBmenu using PLUS button",
+    "install_subfolder": null,
+    "pattern": [
+        [
+            "CHIP8-NX"
+        ],
+        ".zip"
+    ],
+    "license": "Copyright",
+    "package": "CHIP8",
+    "release_api": "https://api.github.com/repos/Marice/CHIP8-NX/releases",
+    "website": "https://github.com/Marice/CHIP8-NX",
+    "category": "emulators",
+    "tags": [
+        "emu",
+        "emulators"
+    ]
+}

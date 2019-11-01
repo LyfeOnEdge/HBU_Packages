@@ -1,0 +1,25 @@
+{
+    "name": "Lockpick RCM",
+    "github_asset": null,
+    "author": "shchmue",
+    "description": "Lockpick_RCM is a bare metal Nintendo Switch payload that derives encryption keys for use in Switch file handling software like hactool, hactoolnet/LibHac, ChoiDujour, etc. without booting Horizon OS.\n\nDue to changes imposed by firmware 7.0.0, Lockpick homebrew can no longer derive the latest keys. In the boot-time environment however, there are fewer limitations.",
+    "pattern": [
+        [
+            "Lockpick_RCM"
+        ],
+        ".bin"
+    ],
+    "payload": [
+        "Lockpick_RCM",
+        ".bin"
+    ],
+    "install_subfolder": "lockpick",
+    "package": "Lockpick_RCM",
+    "release_api": "https://api.github.com/repos/shchmue/Lockpick_RCM/releases",
+    "website": "https://gbatemp.net/threads/lockpick-switch-key-derivation-homebrew.525575/",
+    "category": "payloads",
+    "tags": [
+        "PAYLOADS",
+        "payloads"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "name": "NxThemesInstaller",
+    "author": "exelix11",
+    "description": "The Switch theme injector project is composed of three parts:\n\n - Switch theme injector (Windows app): An app to create and edit custom themes\n\n - NXThemes installer: An homebrew app that runs on the switch itself and can be used to install and manage themes.\n\n - Switch theme injector online (also called WebInjector): A port of the windows injector as a web app, it lacks some features like image to DDS conversion.\n\nThe main objective is to develop a complete toolset to create and install custom themes on the switch. As the console os doesn't implement custom themes natively most of this is done by patching system SZS files to get the desidered aspect.\n\nUnfortunately SZS files from the switch os contain copyrighted data so to make theme sharing legal the nxtheme format has been developed, it's 100% legal and works on every firmware, unless you're dealing with making your own patches and custom layouts you should only use nxtheme files.",
+    "install_subfolder": "switch/NXthemes_Installer",
+    "pattern": [
+        [
+            "NxThemesInstaller"
+        ],
+        ".nro"
+    ],
+    "license": "n/a",
+    "package": "NXthemes_Installer",
+    "release_api": "https://api.github.com/repos/exelix11/SwitchThemeInjector/releases",
+    "website": "https://gbatemp.net/download/nxthemes-installer.35408/",
+    "category": "homebrew",
+    "tags": [
+        "tool",
+        "homebrew"
+    ]
+}

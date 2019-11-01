@@ -1,0 +1,21 @@
+{
+    "name": "eduke32",
+    "author": "Cpasjuste",
+    "description": "EDuke32 is an awesome, free homebrew game engine and source port of the classic PC first person shooter Duke Nukem 3D",
+    "install_subfolder": "switch",
+    "pattern": [
+        [
+            "eduke32"
+        ],
+        ".zip"
+    ],
+    "license": "GPL2",
+    "package": "eduke32",
+    "release_api": "https://api.github.com/repos/Cpasjuste/eduke32/releases",
+    "website": "https://gbatemp.net/threads/duke-nukem-3d.502386/",
+    "category": "games",
+    "tags": [
+        "game",
+        "games"
+    ]
+}

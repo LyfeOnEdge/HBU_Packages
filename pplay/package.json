@@ -1,0 +1,21 @@
+{
+    "name": "pplay",
+    "author": "Cpasjuste",
+    "description": "pPlay is a video player for the Nintendo Switch. pPlay support most popular video formats, have subtitles (embedded ass) and http streaming support.",
+    "install_subfolder": "switch",
+    "pattern": [
+        [
+            "pplay"
+        ],
+        ".zip"
+    ],
+    "license": "n/a",
+    "package": "pplay",
+    "release_api": "https://api.github.com/repos/Cpasjuste/pplay/releases",
+    "website": "https://gbatemp.net/threads/pplay-switch-video-player.526187/",
+    "category": "media",
+    "tags": [
+        "video player",
+        "media"
+    ]
+}

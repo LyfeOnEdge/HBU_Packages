@@ -1,0 +1,21 @@
+{
+    "name": "JKSV",
+    "author": "J-D-K",
+    "description": "WIP Save manager for the Switch, JKSV on Switch started as a small project/port to test some things and get familiar with libnx. A list of what it currently can do:\n\n#Dump and restore save data.\n - This includes the ability to dump and restore to/from any location on SD by pressing minus and using the Advanced Mode.\n\n#Dump system save data\n - Pressing all four shoulder buttons at once will rescan and include the previously unlisted system saves.\n - Dumping this data is allowed, but writing back is not.\n\n#Open and explore bis storage partitions via the Extras menu\n - BIS Storage is opened inside a basic filebrowser. The partition's listing is on the left. Your SD is on the right.\n - Only copying to SD and file properties work on BIS partitions. Writing to and deleting are disabled for now.\n\n#Misc Extras:\n - NAND Dumping\n - Ability to remove downloaded firmware updates from NAND.\n - Terminating processes by ID. Allowing you to dump normally unopenable system archives.\n - Mount by System Save ID. Normally used when the terminated process makes JKSV unable to rescan titles without the Switch crashing.",
+    "install_subfolder": "switch",
+    "pattern": [
+        [
+            "JKSV"
+        ],
+        ".nro"
+    ],
+    "license": "GPL2",
+    "package": "jksv",
+    "release_api": "https://api.github.com/repos/J-D-K/JKSV/releases",
+    "website": "https://gbatemp.net/threads/release-jks-savemanager-homebrew-cia-save-manager.413143/",
+    "category": "homebrew",
+    "tags": [
+        "save manager",
+        "homebrew"
+    ]
+}

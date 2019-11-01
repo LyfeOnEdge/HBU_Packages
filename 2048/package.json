@@ -1,0 +1,21 @@
+{
+    "name": "2048",
+    "author": "BernardoGiordano",
+    "description": "2048 port for Switch Homebrew",
+    "install_subfolder": "switch",
+    "pattern": [
+        [
+            "2048"
+        ],
+        ".nro"
+    ],
+    "license": "n/a",
+    "package": "2048",
+    "release_api": "https://api.github.com/repos/BernardoGiordano/2048/releases",
+    "website": "https://gbatemp.net/threads/release-2048-port-for-switch-homebrew.501678/",
+    "category": "games",
+    "tags": [
+        "game",
+        "games"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Argon-NX payload",
+    "author": "Guillem96",
+    "description": "#What Argon is?\n - Argon is a noble gas. \"Argon\" comes from Greek \"Argon\", neuter of \"argos\" meaning lazy , idle or inactive. Argon recieved this name because of its chemical inactivity.\n\n - Argon NX is an immutable payload which is injected to your Nintendo Switch via Fusee Gelee exploit.\n\n#Purpose\n - The purpose of Argon NX is to stay immutable, so you can always inject it, without caring about other payloads getting updated (Always use ArgonNX for TegraSmash, TegraGUI, TrinkedM0...).\n\n#How can it be immutable?\n - When Argon NX is injected, it automatically launches the payload.bin locacted at argon directory on your SD Card root.\n\n - If payload.bin is not present or VOLUME DOWN button is pressed on payload injection, Argon NX will list all payloads located at argon/payloads, and you will be able to select one of them to launch it.\n",
+    "pattern": [
+        [
+            "argon-nx"
+        ],
+        ".zip"
+    ],
+    "payload": [
+        "argon-nx",
+        ".bin"
+    ],
+    "install_subfolder": "argon",
+    "package": "argon-nx",
+    "release_api": "https://api.github.com/repos/Guillem96/argon-nx/releases",
+    "website": "https://gbatemp.net/threads/argon-nx-payload-chainloader.527178/",
+    "category": "payloads",
+    "tags": [
+        "PAYLOADS",
+        "payloads"
+    ]
+}

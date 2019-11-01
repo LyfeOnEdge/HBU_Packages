@@ -1,0 +1,22 @@
+{
+    "name": "BomberManNX",
+    "author": "KranKRival",
+    "description": "BomberManNX\nClone of Bomberman game in C++ using SDL2 for the nintendo switch\n\nAuthors:\n* Aleksandar Miletic / developer\n* Mirko Brkusanin / developer\n* KranK / Port to the nintendo switch\nOriginal Game\nhttps://github.com/Sandman1705/Bombermaniac",
+    "group": "game",
+    "install_subfolder": "switch",
+    "pattern": [
+        [
+            "BomberManNX"
+        ],
+        ".zip"
+    ],
+    "license": "MIT",
+    "tags": [
+        "game",
+        "games"
+    ],
+    "package": "BomberManNX",
+    "release_api": "https://api.github.com/repos/KranKRival/BomberManNX/releases",
+    "website": "https://gbatemp.net/threads/bombermannx-classic-bomberman-clone-for-the-nintendo-switch.549187/",
+    "category": "games"
+}

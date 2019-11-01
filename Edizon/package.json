@@ -1,0 +1,22 @@
+{
+    "name": "Edizon",
+    "author": "WerWolv",
+    "description": "EdiZon consists of 3 different main functionalities. \n\n#Save file management. Extraction of game saves.\n - Injection of extracted game saves (Your own and your friends save files).\n - Uploading of savefiles directly to https://transfer.sh.\n - Batch extraction of all save files of all games on the system.\n\n#Save file editing\n - Easy to use, scriptable and easily expandable on-console save editing.\n   - Lua and Python script support.\n - Built-in save editor updater.\n\n#On-the-fly memory editing\n - Cheat Engine like RAM editing.\n - Freezing of values in RAM via Atmosph\u00e8re's cheat module.\n - Interface for loading, managing and updating Atmosph\u00e8re cheats.\n    \nAll packed into one easy to use and easy to install Homebrew.",
+    "install_subfolder": null,
+    "pattern": [
+        [
+            "SD"
+        ],
+        ".zip"
+    ],
+    "license": "GPL2",
+    "tags": [
+        "save tool",
+        "save manager",
+        "homebrew"
+    ],
+    "package": "Edizon",
+    "release_api": "https://api.github.com/repos/WerWolv/EdiZon/releases",
+    "website": "https://github.com/WerWolv/EdiZon",
+    "category": "homebrew"
+}

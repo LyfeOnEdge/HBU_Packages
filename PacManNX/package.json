@@ -1,0 +1,22 @@
+{
+    "name": "PacManNX",
+    "author": "KranKRival",
+    "description": "A Clone of original PacMan For The Nintendo Switch made in C++ using SDL2",
+    "group": "game",
+    "install_subfolder": "switch",
+    "pattern": [
+        [
+            "PacManNX"
+        ],
+        ".zip"
+    ],
+    "license": "GPL2",
+    "tags": [
+        "game",
+        "games"
+    ],
+    "package": "PacManNX",
+    "release_api": "https://api.github.com/repos/KranKRival/PacManNX/releases",
+    "website": "https://github.com/KranKRival/PacManNX",
+    "category": "games"
+}

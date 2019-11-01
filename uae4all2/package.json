@@ -1,0 +1,21 @@
+{
+    "name": "uae4all2",
+    "author": "rsn8887",
+    "description": "A fast and optimized Amiga Emulator",
+    "install_subfolder": "switch",
+    "pattern": [
+        [
+            "uae4all2"
+        ],
+        "switch.zip"
+    ],
+    "license": "GPL2",
+    "package": "uae4all2",
+    "release_api": "https://api.github.com/repos/rsn8887/uae4all2/releases",
+    "website": "https://github.com/rsn8887/uae4all2/",
+    "category": "emulators",
+    "tags": [
+        "emu",
+        "emulators"
+    ]
+}

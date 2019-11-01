@@ -1,0 +1,23 @@
+{
+    "name": "JoyConMouse",
+    "author": "KranKRival",
+    "description": "this is a proof of concept of a mouse created with sdl2 and controlled by the left analog stick of the joycon there's button added to determine the button press",
+    "group": "proof-of-concept",
+    "install_subfolder": "switch",
+    "pattern": [
+        [
+            "JoyConMousePOC"
+        ],
+        ".zip"
+    ],
+    "license": "Apache License 2.0",
+    "tags": [
+        "proof-of-concept",
+        "Apache License 2.0",
+        "homebrew"
+    ],
+    "package": "JoyConMouse",
+    "release_api": "https://api.github.com/repos/KranKRival/JoyConMouse/releases",
+    "website": "https://github.com/KranKRival/JoyConMouse",
+    "category": "homebrew"
+}

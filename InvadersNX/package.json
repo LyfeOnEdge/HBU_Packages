@@ -1,0 +1,21 @@
+{
+    "name": "InvadersNX",
+    "author": "MaesterRowen",
+    "description": "This is a port of a space invaders type game I wrote for the Xbox 360 homebrew scene. Initially, I was going to remove the Xbox 360 specific artwork, but then figured it sort of made sense to have the xbox boss be an \"Invader\" on the Nintendo Switch.\n\nThe project has always been a learning project so I hope others can get use out of the source code and are able to improve upon or learn from it.\n\nKnown Bugs: There appears to be some bug that causes the screen to flicker during transitions. I am not sure if that's a VSYNC issue with SDL2/libnx or something I am doing incorrectly.",
+    "install_subfolder": "switch/InvadersNX",
+    "pattern": [
+        [
+            "InvadersNX"
+        ],
+        ".nro"
+    ],
+    "license": "n/a",
+    "package": "InvadersNX",
+    "release_api": "https://api.github.com/repos/MaesterRowen/InvadersNX/releases",
+    "website": "https://gbatemp.net/threads/homebrew-space-game-nx.493643/",
+    "category": "games",
+    "tags": [
+        "game",
+        "games"
+    ]
+}

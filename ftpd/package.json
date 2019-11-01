@@ -1,0 +1,21 @@
+{
+    "name": "ftpd",
+    "author": "mtheall, TuxSH",
+    "description": "FTP Server for Switch",
+    "install_subfolder": "switch",
+    "pattern": [
+        [
+            "ftpd"
+        ],
+        ".nro"
+    ],
+    "license": "Public Domain",
+    "package": "ftpd",
+    "release_api": "https://api.github.com/repos/mtheall/ftpd/releases",
+    "website": "https://github.com/mtheall/ftpd/",
+    "category": "homebrew",
+    "tags": [
+        "tool",
+        "homebrew"
+    ]
+}

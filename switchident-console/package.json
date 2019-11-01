@@ -1,0 +1,21 @@
+{
+    "name": "SwitchIdent Console",
+    "author": "joel16",
+    "description": "This is yet another identity tool that is continuing the series of <device name here>ident. This tool allows users to get various bits of information from your Nintendo Switch device, hence the name 'ident' as in identifying your Nintendo Switch.",
+    "install_subfolder": "switch",
+    "pattern": [
+        [
+            "SwitchIdent_Console"
+        ],
+        ".nro"
+    ],
+    "license": "GPL3",
+    "package": "switchident-console",
+    "release_api": "https://api.github.com/repos/joel16/SwitchIdent/releases",
+    "website": "https://gbatemp.net/threads/switchident.504134/",
+    "category": "homebrew",
+    "tags": [
+        "tool",
+        "homebrew"
+    ]
+}
