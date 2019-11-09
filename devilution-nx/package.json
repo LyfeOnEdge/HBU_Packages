@@ -1,0 +1,21 @@
+{
+    "name": "devilution-nx",
+    "author": "lantus",
+    "description": "Diablo build for modern operating systems. This is the Nintendo Switch Port. It's still in Beta as i continue to map the controls over from the PC version\\n\\nHow To Play:\\n\\nCopy DIABDAT.MPQ from original Diablo game disc or GOG version.\\nLaunch diablo-nx.nro\\nEnjoy :)\\n\\nControls\\n\\nLeft Analog : Move Hero\\nB : Attack\\nY : Open Chest/Talk/Pick Up\\nX : Inventory\\nR : Character\\nRight Analog : Simulate Mouse\\nZR : Left Mouse Click\\nZL : Drink Heal Potion\\nMinus : Escape to Menu\\n\\n\\nNotes\\n\\nWhen pressing 'B' to Attack a monster. it will try to attack the nearest on. Im still playing around with the control scheme. There are lots of bugs.",
+    "install_subfolder": "switch",
+    "pattern": [
+        [
+            "diablo-nx"
+        ],
+        ".zip"
+    ],
+    "license": "The Unlicense",
+    "package": "devilution-nx",
+    "release_api": "https://api.github.com/repos/lantus/devilution-nx/releases",
+    "website": "https://github.com/lantus/devilution-nx/releases",
+    "category": "games",
+    "tags": [
+        "game",
+        "port"
+    ]
+}

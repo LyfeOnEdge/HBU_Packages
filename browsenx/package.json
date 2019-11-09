@@ -1,0 +1,23 @@
+{
+    "name": "BrowseNX",
+    "author": "crc-32",
+    "description": "BrowseNX allows you to launch the built-in Switch web browser without needing a DNS. The NRO version currently doesn't allow for html5 video support (just like the DNS) and you have to run it from hbmenu/hbloader that has replaced an app or game, NOT Gallery.\\nThe NSP version available on the github releases is a full browser, including html5 video support.\\n\\nThis also installs https://github.com/p-sam/switch-sys-tweak which disables the supernag, allowing you to access the browser even if you aren't on the latest version.",
+    "install_subfolder": null,
+    "pattern": [
+        [
+            "BrowseNX"
+        ],
+        ".zip"
+    ],
+    "license": "MIT",
+    "package": "browsenx",
+    "release_api": "https://api.github.com/repos/crc-32/BrowseNX/releases",
+    "website": "https://github.com/crc-32/BrowseNX",
+    "category": "homebrew",
+    "tags": [
+        "tool",
+        "browser",
+        "web",
+        "web browser"
+    ]
+}

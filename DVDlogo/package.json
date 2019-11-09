@@ -1,0 +1,20 @@
+{
+    "name": "DVDLogo",
+    "author": "simontime",
+    "description": "\\nA bouncing DVD logo screensaver for Switch.\\n\\n\\n\\nnothing else.\\n",
+    "install_subfolder": "DVDlogo",
+    "pattern": [
+        [
+            "DVDLogo"
+        ],
+        ".nro"
+    ],
+    "license": "n/a",
+    "package": "DVDlogo",
+    "release_api": "https://api.github.com/repos/simontime/DVDLogo/releases",
+    "website": "https://github.com/simontime/DVDLogo/releases",
+    "category": "homebrew",
+    "tags": [
+        "tool"
+    ]
+}

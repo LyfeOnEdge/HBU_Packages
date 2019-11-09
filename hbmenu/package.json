@@ -2,7 +2,7 @@
     "name": "Homebrew Menu",
     "author": "yellows8, plutoo",
     "description": "Allows you to launch homebrew apps, hold 'r' and open the photo album to launch",
-    "install_subfolder": "",
+    "install_subfolder": null,
     "pattern": [
         [
             "nx-hbmenu"

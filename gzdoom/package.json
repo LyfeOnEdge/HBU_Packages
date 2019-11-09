@@ -1,0 +1,20 @@
+{
+    "name": "GZDoom",
+    "author": "fgsfdsfgs",
+    "description": "GZDoom is a modder-friendly OpenGL source port based on the DOOM engine.\\n\\nPlace supported IWAD (eg. doom2.wad) files in sd:/switch/gzdoom/iwads\\nThis package comes with Freedom wads.\\n\\nAny custom files (PWADs, PK3s, DEHs, LMPs, whatever) should be placed into the gzdoom/pwads folder.\\nThe launcher has predefined default profiles for most supported IWADs. You can also add your own profiles by pressing Y on the main tab. Any changes will be saved to gzdoom/launcher.ini.\\nThe launcher will only detect files in gzdoom/iwads and gzdoom/pwads. You can use the Override RSP file option if you have to load files from other locations.\\nMultiplayer does work, however only Switch <=> PC multiplayer has been tested. You can start a netgame from the launcher. Don't forget to change the player number from 1 and read the warning message.\\nThe IP that's placed in the address field by default is your Switch's local IP, others can use that to connect to it if they're on the same network.\\nOnly the player that hosts the game needs to set gameplay settings, however everyone has to pick the same set of custom files as the host.\\nFatal errors are logged into error.log. You can also turn on logging in the launcher.",
+    "install_subfolder": null,
+    "pattern": [
+        [
+            "gzdoom_nx_5"
+        ],
+        ".zip"
+    ],
+    "license": "GPLv3",
+    "package": "gzdoom",
+    "release_api": "https://api.github.com/repos/fgsfdsfgs/gzdoom/releases",
+    "website": "https://github.com/fgsfdsfgs/gzdoom/releases",
+    "category": "games",
+    "tags": [
+        "game"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Analog Cursor",
+    "author": "RobDEV",
+    "description": "A simple console application, That you can control a cursor inside",
+    "install_subfolder": "switch/AnalogCursor",
+    "pattern": [
+        [
+            "AnalogCursor"
+        ],
+        ".nro"
+    ],
+    "license": "n/a",
+    "package": "AnalogCursor",
+    "release_api": "https://api.github.com/repos/ViggoEklund/RobDEVHomebrew/releases",
+    "website": "https://github.com/ViggoEklund/RobDEVHomebrew/releases",
+    "category": "homebrew",
+    "tags": [
+        "tool"
+    ]
+}

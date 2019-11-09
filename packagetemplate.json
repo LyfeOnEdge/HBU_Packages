@@ -1,0 +1,19 @@
+{
+    "name": "",
+    "author": "",
+    "description": "",
+    "install_subfolder": "switch",
+    "pattern": [
+        [
+            "fp"
+        ],
+        "extention"
+    ],
+    "license": "",
+    "package": "",
+    "release_api": "https://api.github.com/repos//releases",
+    "website": "",
+    "category": "",
+    "tags": [
+    ]
+}

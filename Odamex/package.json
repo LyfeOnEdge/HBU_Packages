@@ -1,0 +1,20 @@
+{
+    "name": "Odamex",
+    "author": "Ch0wW, The Odamex Team",
+    "description": "Odamex is a multiplayer-centric client/server source port originally based on Zdoom 1.22/csDoom. Despite offering many modern features and comforts, the engine is also capable of playing back many vanilla Doom demos. In addition to its strong netcode, other significant modern features include a truecolor software renderer, widescreen, uncapped frame rates, on-the-fly wad loading, and net demos with playback controls.",
+    "install_subfolder": null,
+    "pattern": [
+        [
+            "odamex"
+        ],
+        "_switch.zip"
+    ],
+    "license": "GPLv3",
+    "package": "Odamex",
+    "release_api": "https://api.github.com/repos/Ch0wW/odamex/releases",
+    "website": "https://github.com/Ch0wW/odamex/releases",
+    "category": "games",
+    "tags": [
+        "game"
+    ]
+}

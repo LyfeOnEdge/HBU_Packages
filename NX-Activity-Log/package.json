@@ -1,0 +1,20 @@
+{
+    "name": "NX-Activity-Log",
+    "author": "tallbl0nde",
+    "description": "NX Activity Log allows you to view (slightly) more detailed play statistics than what is currently available.\\nNo more 5 hour estimates! :D\\n\\nCurrently, you can view (per game and per user):\\n- Number of launches\\n- Time of first play\\n- Time of last play\\n- Total playtime (down to the minute!)\\n\\nThis application is fairly basic right now; a GUI is on the \"horizon\"!",
+    "install_subfolder": "NX-Activity-Log",
+    "pattern": [
+        [
+            "NX-Activity-Log"
+        ],
+        ".nro"
+    ],
+    "license": "MIT",
+    "package": "NX-Activity-Log",
+    "release_api": "https://api.github.com/repos/tallbl0nde/NX-Activity-Log/releases",
+    "website": "https://github.com/tallbl0nde/NX-Activity-Log/releases",
+    "category": "homebrew",
+    "tags": [
+        "tool"
+    ]
+}

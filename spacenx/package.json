@@ -1,0 +1,20 @@
+{
+    "name": "Space Game NX",
+    "author": "vgmoose",
+    "description": "This is a port of Space Game - https://github.com/vgmoose/space to the Switch, using libtransistor.\\nThe game is currently fully playable, but there's no music, enemy count is limited to compared to the Wii U version, and some Switch-specific features are planned.",
+    "install_subfolder": "switch",
+    "pattern": [
+        [
+            "spacenx"
+        ],
+        ".nro"
+    ],
+    "license": "MIT License",
+    "package": "spacenx",
+    "release_api": "https://api.github.com/repos/vgmoose/sdl-space/releases",
+    "website": "https://github.com/vgmoose/spacenx",
+    "category": "games",
+    "tags": [
+        "game"
+    ]
+}

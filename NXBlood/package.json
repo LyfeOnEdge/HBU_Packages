@@ -1,0 +1,20 @@
+{
+    "name": "NXBlood",
+    "author": "Jan200101",
+    "description": "NXBlood is a port of NBlood for the Switch which itself is a attempted Source port of the 1997 game Blood\\nthe port is relatively feature complete compared to the existing version of NBlood\\n\\nAll credit to the actual port of Blood go to  http://nukeykt.retrohost.net for his fantastic NBlood\\n\\nInstallation:\\n\\ncopy the following files into nblood on your root\\n\\nBLOOD.INI\\nBLOOD.RFF\\nBLOOD000.DEM-BLOOD003.DEM\\nGUI.RFF\\nSOUNDS.RFF\\nSURFACE.DAT\\nTILES000.ART-TILES017.ART\\nVOXEL.DAT\\n\\n\\nControls:\\nTHERE CURRENTLY IS NO WAY OF CHANGING CONTROLLER CONFIGURATIONS IN-GAME\\nif you do want to change your controls anway you can edit the nblood.cfg in your /nblood folder\\n\\n\\nIn-game:\\nLeft Joystick - Movement\\nRight Joystick - Looking around\\nRight Joystick pressed - Crouching\\nA - Use\\nB - Jump\\nY - Use item\\nZR - Fire\\nZL - Alternative Fire\\nR & L - Switching Weapons\\nUp - Holder Weapon\\nLeft & Right - Switch items\\nDown - Toggle Map mode ( does not view map )\\nMinus - View Map\\n\\nKeyboard and Mouse are fully supported and you are free to use them\\n\\nCREDITS:\\nfor NBlood",
+    "install_subfolder": "NXBlood",
+    "pattern": [
+        [
+            "nblood"
+        ],
+        ".nro"
+    ],
+    "license": "n/a",
+    "package": "NXBlood",
+    "release_api": "https://api.github.com/repos/Jan200101/NXBlood/releases",
+    "website": "https://github.com/Jan200101/NXBlood/releases",
+    "category": "games",
+    "tags": [
+        "game"
+    ]
+}

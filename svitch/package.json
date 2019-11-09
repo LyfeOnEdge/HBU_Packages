@@ -1,0 +1,22 @@
+{
+    "name": "svitch",
+    "author": "Slashcash",
+    "description": "Svitch is a Nintendo Switch savefile extractor, it just scans your system searching for savefiles and lists them at startup, you can then export them to your sd card into a convenient file format called .svi\\n\\nThe .svi file format\\n\\nAfter a succesful extraction you will find a .svi files into the export folder on your sd card named after the id of the game you extracted, this is nothing more than a glorified archive which contains your savefile and can be opened natively with every archive manager (such as WinZip, WinRar, 7Zip and so on).This archive will also contain a svitch_saveheader.svh file. It is not part of your savefile, it contains human-readable additional informations about the save itself and it will also be used by Svitch to import the save back in the system (as soon as the function will be ready).If you wish to import the .svi files back into your system with the use of a different tool you can easily decompress the archive, scrap away svitch_saveheader.svh and re-import it normally.",
+    "install_subfolder": "switch",
+    "pattern": [
+        [
+            "svitch"
+        ],
+        ".zip"
+    ],
+    "license": "none",
+    "package": "svitch",
+    "release_api": "https://api.github.com/repos/Slashcash/svitch/releases",
+    "website": "https://github.com/Slashcash/svitch/releases",
+    "category": "homebrew",
+    "tags": [
+        "tool",
+        "save",
+        "save editor"
+    ]
+}

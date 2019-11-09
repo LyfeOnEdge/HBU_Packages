@@ -1,0 +1,20 @@
+{
+    "name": "NX-ntpc",
+    "author": "thedax",
+    "description": "A crude NTP client for the Switch.\\n\\nWhat's it do?\\nIt contacts a time server at http://ntp.org and sets the Nintendo Switch's clock appropriately.\\n\\nRun the NRO from the hbmenu, or send it over nxlink. An internet connection is required for this application to work, but it does not contact Nintendo's servers, so it should be friendly in 90DNS and other Nintendo-blocked environments. If \"Synchronise Clock via Internet\" (in System Settings -> System -> Date & Time) is enabled before launching this application, the time will automatically update correctly on the console's Home Screen. If it is not enabled, the application will ask if you wish to enable it, and then reboot afterward to correct the time, or offer a way to exit without enabling internet time sync.",
+    "install_subfolder": "NX-ntpc",
+    "pattern": [
+        [
+            "nx-ntpc"
+        ],
+        ".nro"
+    ],
+    "license": "The Unlicense",
+    "package": "NX-ntpc",
+    "release_api": "https://api.github.com/repos/thedax/NX-ntpc/releases",
+    "website": "https://github.com/thedax/NX-ntpc/releases",
+    "category": "homebrew",
+    "tags": [
+        "tool"
+    ]
+}

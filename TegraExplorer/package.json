@@ -1,0 +1,24 @@
+{
+    "name": "TegraExplorer",
+    "author": "suchmememanyskill",
+    "description": "A payload-based file explorer for your switch!\\n\\nUsage\\n\\nGet your favorite payload injector\\nInject TegraExplorer as a payload\\nNavigate around the menu's using the vol+, vol- and power buttons\\n\\nFunctions\\n\\nNavigate the SD card\\nNavigate the System partition of your sysnand\\nDeleting, copying or moving files\\nLaunching payloads\\nDumping your current firmware to sd",
+    "pattern": [
+        [
+            "TegraExplorer"
+        ],
+        ".bin"
+    ],
+    "payload": [
+        "TegraExplorer",
+        ".bin"
+    ],
+    "install_subfolder": "TegraExplorer",
+    "license": "GPLv2",
+    "package": "TegraExplorer",
+    "release_api": "https://api.github.com/repos/suchmememanyskill/TegraExplorer/releases",
+    "website": "https://github.com/suchmememanyskill/TegraExplorer/releases",
+    "category": "payloads",
+    "tags": [
+        "payloads"
+    ]
+}

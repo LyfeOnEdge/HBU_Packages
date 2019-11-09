@@ -1,0 +1,21 @@
+{
+    "name": "Amiigo",
+    "author": "CompSciOrBust",
+    "description": "Amiigo is a GUI for Emuiibo and a EmuGUIibo alternative that runs directly on the switch.\\n\\nControls\\nUp / Down on Dpad to move up and down the list.\\n\\nA to select a Amiibo from the list.\\n\\nX toggles emulation state.\\n\\nY moves on to the next Amiibo.\\n\\nB enters the Amiigo Maker. Press B again to go back to the Amiibo selection UI.\\n\\nYou can also use the touch screen to select an Amiibo by tapping on a item in the list, tapping the emulation status rectangle will toggle the emulation state, and tapping the currently selected Amiibo on the top rectangle will move on to the next Amiibo.\\n\\n",
+    "install_subfolder": "Amiigo",
+    "pattern": [
+        [
+            "Amiigo"
+        ],
+        ".nro"
+    ],
+    "license": "n/a",
+    "package": "Amiigo",
+    "release_api": "https://api.github.com/repos/CompSciOrBust/Amiigo/releases",
+    "website": "https://github.com/CompSciOrBust/Amiigo/releases",
+    "category": "tool",
+    "tags": [
+        "tool",
+        "gui"
+    ]
+}

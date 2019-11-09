@@ -1,0 +1,21 @@
+{
+    "name": "HomeBrew-Manager",
+    "author": "KranKRival",
+    "description": "A simple homebrew manager\\n\\napologies for the lack of info the dev didnt provide much :)",
+    "install_subfolder": null,
+    "pattern": [
+        [
+            "HomeBrew-Manager"
+        ],
+        ".zip"
+    ],
+    "license": "GPLv2",
+    "package": "HomeBrew-Manager",
+    "release_api": "https://api.github.com/repos/KranKRival/HomeBrew-Manager/releases",
+    "website": "https://github.com/KranKRival/HomeBrew-Manager/releases",
+    "category": "homebrew",
+    "tags": [
+        "tool",
+        "cli"
+    ]
+}

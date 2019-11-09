@@ -1,0 +1,20 @@
+{
+    "name": "TIL NX",
+    "author": "Manurocker95",
+    "description": "This time is a touch game where you have to drag the falling balls to the correct side of the screen: red to the red side and blue to the blue side.\nIf you do it wrong, you fail.\nEasy, right?\nThis was an idea I had for mobile devices so why not try to make it for Nintendo Switch?",
+    "install_subfolder": "switch/TIL-NX",
+    "pattern": [
+        [
+            "TIL_NX"
+        ],
+        ".nro"
+    ],
+    "license": "GPLv3",
+    "package": "TIL-NX",
+    "release_api": "https://api.github.com/repos/Manurocker95/TIL_NX/releases",
+    "website": "https://github.com/Manurocker95/TIL_NX/releases",
+    "category": "games",
+    "tags": [
+        "game"
+    ]
+}

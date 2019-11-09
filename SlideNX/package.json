@@ -1,0 +1,20 @@
+{
+    "name": "SlideNX",
+    "author": "jonyluke",
+    "description": "A work in progress module to change JoyCon attach/detach sound\\n\\nAt the moment i was not able to mute default nintendo sound.\\n\\nHow to use\\n\\n(There are already mp3 files for testing)\\n\\nAdd the sound files you want to use to SlideNX folder\\n\\nFor changing the attach sound rename your mp3 to attach.mp3\\n\\nFor changing the disattach sound rename your mp3 to dettach.mp3\\n\\nThis is packaged for hekate , If you want it also in ReiNX copy \"slidenx.kip\" from modules folder to /ReiNX/sysmodules",
+    "install_subfolder": null,
+    "pattern": [
+        [
+            "slidenx"
+        ],
+        ".zip"
+    ],
+    "license": "GPLv2",
+    "package": "SlideNX",
+    "release_api": "https://api.github.com/repos/jonyluke/SlideNX/releases",
+    "website": "https://github.com/jonyluke/SlideNX/releases",
+    "category": "homebrew",
+    "tags": [
+        "tool"
+    ]
+}

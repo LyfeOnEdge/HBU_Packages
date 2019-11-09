@@ -1,0 +1,20 @@
+{
+    "name": "Switch-Media-Host",
+    "author": "ImmaSpoon",
+    "description": "Host your Switch media over LAN.\\nScreenshots\\nVideos\\nAnd SDCard Contents\\n\\nSwitch Media Host is a simple python script that allows you to see your Switch screenshots, video clips, and all of your SDCard contents directly from your browser! Note: You need to be on the same network as the Switch in order to see your files. This allows for easier transfering, with a simple and clean design.\\n\\nIt achieves this by hosting a local webserver directly from the Switch, and then the script adjusts the webpage to fit your system accordingly!\\n\\nYour Switch must have access to homebrew.\\n\\nMore info here :\\n\\nhttps://github.com/ImmaSpoon/Switch-Media-Host\\n",
+    "install_subfolder": null,
+    "pattern": [
+        [
+            "Switch.Media.Host"
+        ],
+        ".zip"
+    ],
+    "license": "n/a",
+    "package": "Switch_Media_Host",
+    "release_api": "https://api.github.com/repos/ImmaSpoon/Switch-Media-Host/releases",
+    "website": "https://github.com/ImmaSpoon/Switch-Media-Host/releases",
+    "category": "homebrew",
+    "tags": [
+        "tool"
+    ]
+}

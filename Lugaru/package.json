@@ -1,0 +1,20 @@
+{
+    "name": "Lugaru",
+    "author": "usineur",
+    "description": "The game\\nLugaru (pronounced Loo-GAH-roo) is a cross-platform third-person action game. The main character, Turner, is an anthropomorphic rebel bunny rabbit with impressive combat skills. In his quest to find those responsible for slaughtering his village, he uncovers a far-reaching conspiracy involving the corrupt leaders of the rabbit republic and the starving wolves from a nearby den. Turner takes it upon himself to fight against their plot and save his fellow rabbits from slavery.\\n\\nHistory\\nLugaru was originally developed by David Rosen of Wolfire Games and was open sourced in 2010. It was made cross-platform with the help of Ryan C. Gordon.\\n\\nVarious forks were made at that time, and the most interesting developments were put back together under the OSS Lugaru organization, originally on Google Code and then on Bitbucket.\\n\\nThis new repository on GitLab is run by the same team, and aims at revitalizing the development effort to clean things up, ensuring the code base builds and runs fine on all supported platforms, and easing the packaging of Lugaru in Linux distributions.\\n\\nIdeally, the updated code base could also be used to update the Lugaru HD version sold by Wolfire Games once proven better than the current commercial builds.\\n\\nRun it through hbloader or hbmenu.nsp. Old Album method is not recommended (may cause crashes).\\nControls:\\nCheck in Options for current mapping. Press + to access menu (in-game).\\nNote that ZL and ZR are reserved for camera.",
+    "install_subfolder": "switch/lugaru",
+    "pattern": [
+        [
+            "lugaru"
+        ],
+        ".nro"
+    ],
+    "license": "GPLv2",
+    "package": "Lugaru",
+    "release_api": "https://api.github.com/repos/usineur/lugaru/releases",
+    "website": "https://github.com/usineur/lugaru/releases",
+    "category": "games",
+    "tags": [
+        "game"
+    ]
+}
