@@ -13,7 +13,7 @@
     "package": "sigpatch-updater",
     "release_api": "https://api.github.com/repos/ITotalJustice/sigpatch-updater/releases",
     "website": "https://github.com/ITotalJustice/sigpatch-updater/releases",
-    "category": "tool",
+    "category": "homebrew",
     "tags": [
         "tool"
     ]

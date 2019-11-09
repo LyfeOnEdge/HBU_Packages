@@ -8,3 +8,5 @@ for package in os.listdir(sys.path[0]):
 print(json.dumps(packages, indent = 4))
 with open("packages.json", mode='w+') as packagefile:
 	json.dump(packages, packagefile, indent=4)
+
+print(len(packages))
