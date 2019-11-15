@@ -5,7 +5,7 @@
     "install_subfolder": null,
     "pattern": [
         [
-            "sdmcloaderfiles"
+            "sdmcloadersdfiles"
         ],
         ".zip"
     ],
