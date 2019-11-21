@@ -2,7 +2,7 @@
     "name": "sdmcloader",
     "author": "KranKRival",
     "description": "Modified memloader that only parses sdmc ini files. Allows you to use your Nintendo Switch as an sd card reader.",
-    "install_subfolder": null,
+    "install_subfolder": "sdmcloader",
     "pattern": [
         [
             "SdmcLoader"
