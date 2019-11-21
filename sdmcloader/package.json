@@ -1,0 +1,25 @@
+{
+    "name": "sdmcloader",
+    "author": "KranKRival",
+    "description": "Modified memloader that only parses sdmc ini files. Allows you to use your Nintendo Switch as an sd card reader.",
+    "install_subfolder": null,
+    "pattern": [
+        [
+            "SdmcLoader"
+        ],
+        ".bin"
+    ],
+    "payload": [
+        "SdmcLoader.bin",
+        ".bin"
+    ],
+    "license": "n/a",
+    "package": "sdmcloader",
+    "release_api": "https://api.github.com/repos/KranKRival/sdmcloader/releases",
+    "website": "https://github.com/KranKRival/sdmcloader",
+    "category": "payloads",
+    "tags": [
+        "PAYLOADS",
+        "payloads"
+    ]
+}
