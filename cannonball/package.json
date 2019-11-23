@@ -1,0 +1,20 @@
+{
+    "name": "CannonBall",
+    "author": "lantus",
+    "description": "Ported to the Switch by MVG. Original release by djyt.\\n\\nOriginal Release - https://github.com/djyt/cannonball\\n\\nNOTE: Arcade roms for Outrun Version B are required to run this engine. The roms are NOT included in the download\\nPlace OutRun Revision B ROMs in roms folder",
+    "install_subfolder": "switch/cannonball-nx",
+    "pattern": [
+        [
+            "cannonball-nx"
+        ],
+        ".zip"
+    ],
+    "license": "Copyleft",
+    "package": "cannonball",
+    "release_api": "https://api.github.com/repos/lantus/cannonball-nx/releases",
+    "website": "https://github.com/lantus/cannonball-nx/releases",
+    "category": "games",
+    "tags": [
+        "game"
+    ]
+}

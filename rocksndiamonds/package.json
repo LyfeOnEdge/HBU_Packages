@@ -1,0 +1,20 @@
+{
+    "name": "Rocks'n'Diamonds",
+    "author": "rsn8887",
+    "description": "Rocks'n'Diamonds is a Boulderdash type game by Holger Schemel with many unique features, such as the ability to play remade levels from Boulderdash, Emerald Mine and Supaplex and many more levels.\\n\\nFor more information on how to play the game, or to load custom levels, view the source repo at github.com/rsn8887/rocksndiamonds/\\n\\nThanks:\\n- Thanks to my awesome supporters on Patreon, especially Andyways, CountDuckula, and Sean Ritzo.\\n- Thanks @FrangarCJ for help with optimizing the rendering.\\n- Thanks to Holger Schemel for making a great and portable game.\\n- Thanks to the many devs of VitaSDK for a great development environment.\\n\\n\\nVita/Switch-Exclusive Features:\\n\\n- game controller mapping including analog joystick mouse controls\\n- front touch controls with left/right mouse click and drag and drop gestures\\n- support for bluetooth keyboard and mouse\\n- the game runs smooth at the same speed as the desktop versions\\n- additional level package with thousands of levels as separate download (see 'More Levels')\\n- auto-hide mouse cursor when using the dpad\\n- easily switch player focus in multiplayer games using r+triangle and r+square\\n\\n\\nGamepad Controls (Switch):\\n\\nDpad or left stick = move player and navigate menus\\nright stick = move mouse pointer\\nB = primary button (+ direction for snap action or turning mirrors, also 'ok' in menu)\\nA = secondary button (drop dynamite)\\nY or L = left mouse button\\nX or R = right mouse button\\nMinus = quit (escape key, also cancels requesters)\\nPlus = pause (space key)\\nR+X = set focus to next player (ALL->1->2->3->4)\\nR+Y = set player focus to previous player (ALL<-1<-2<-3<-4)\\n\\n\\nTouch Controls:\\n\\nNote: for multi-touch gestures, the fingers have to be far enough apart from each other, so that the Vita will not erroneously recognize them as a single finger. Otherwise the pointer will jump around.\\n\\nSingle short tap = left mouse click\\nSingle short tap while holding a second finger down = right mouse click\\nSingle finger drag = move the mouse pointer\\nDual finger drag = drag'n'drop (left mouse button is held down)\\nThree finger drag = drag'n'drop (right mouse button is held down)",
+    "install_subfolder": null,
+    "pattern": [
+        [
+            ""
+        ],
+        ""
+    ],
+    "license": "GPLv2",
+    "package": "rocksndiamonds",
+    "release_api": "https://api.github.com/repos//releases",
+    "website": "https://github.com/rsn8887/rocksndiamonds/",
+    "category": "game",
+    "tags": [
+        "game"
+    ]
+}

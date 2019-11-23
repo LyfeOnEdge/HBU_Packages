@@ -1,0 +1,20 @@
+{
+    "name": "Killer Whale Cursor NX",
+    "author": "Voxel9",
+    "description": "This is a recreation of the famous Killer Whale Cursor flash app for the Nintendo Switch, made using only Devkitpro and a couple of libraries.\\n\\nCurrent features implemented:\\n\\nUse of motion tracking in the right joy-con and touch input to make the Killer Whale follow the cursor\\nAbility to reset cursor position by pressing Y\\nAbility to toggle between a front and rear view of the whale (basically changing the draw order) by pressing X\\nToggle on-screen text for full usage of the screen by pressing B\\nCustomize motion sensitivity, whale movement speed, and flexibility (how fast the individual segments follow eachother)\\nCustomizable whale diffuse color, as well as background color\\n\\nImportant!\\nMake sure to run this through the NSP version of HBL; launching via Album has some graphical issues due to constraints, and thus isn't supported.",
+    "install_subfolder": "switch/Killer-Whale-Cursor-NX",
+    "pattern": [
+        [
+            "OrcaFlash"
+        ],
+        ".nro"
+    ],
+    "license": "n/a",
+    "package": "Killer-Whale-Cursor-NX",
+    "release_api": "https://api.github.com/repos/Voxel9/Killer-Whale-Cursor-NX/releases",
+    "website": "https://github.com/Voxel9/Killer-Whale-Cursor-NX/releases",
+    "category": "games",
+    "tags": [
+        "game"
+    ]
+}

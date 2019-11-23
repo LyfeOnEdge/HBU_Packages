@@ -1,0 +1,20 @@
+{
+    "name": "ipswitch",
+    "author": "3096",
+    "description": "Pronounced as IPS-witch.\\n\\nUse text to generate .ips patches to use with Atmosphere.\\n\\n\\nHow to use\\n\\nThis program reads .pchtxt (patch text) files and can create .ips patches. .pchtxt is a in-house text file format to represent patches. You can find the specs for .pchtxt below.\\n\\nThe program looks for .pchtxt files with the path sdmc:/switch/ipswitch/{patch_description}/{whatever_name}.pchtxt. The dir {patch_description}/{whatever_name}.pchtxt is used for display purpose and help user to identify the patch. The {patch_description} folder name is used as the folder name in atmosphere/exefs_patches/{patch_description}.\\n\\nRun the homebrew and it will let you select a .pchtxt file to generate .ips patch with.\\n\\nStructure of .pchtxt File\\n\\n.pchtxt will be a text file. See the splat310.pchtxt for some simple Splatoon 2 3.1.0 edit I provided for example.",
+    "install_subfolder": "switch",
+    "pattern": [
+        [
+            "ipswitch"
+        ],
+        ".zip"
+    ],
+    "license": "GPLv3",
+    "package": "ipswitch",
+    "release_api": "https://api.github.com/repos/3096/ipswitch/releases",
+    "website": "https://github.com/3096/ipswitch/releases",
+    "category": "homebrew",
+    "tags": [
+        "tool"
+    ]
+}

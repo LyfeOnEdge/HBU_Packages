@@ -1,0 +1,20 @@
+{
+    "name": "TetrisNX",
+    "author": "KranKRival",
+    "description": "Tetris clone made in C using SDL2 for the nintendo switch\\n\\nThis nintendo switch release slightly diffrent from the original source:\\n\\n1.Fixed broken sound / recode from scratch\\n2.Changed the screen aspects and some values to match the nintendo switch\\n3.Changed/Added some colors, it was way too colorless\\n4.Anhanced the controls and added held keys for full Tetris expirience\\n5.Some code changes and fixes\\n6.Removed usedless mouse on main screen and replaced with Keys\\n7.Also Added pause as there was none\\n8.Complete remove the wraped LOG\\n9.anyting else i have forgot about\\n\\nYo this 4 years old unfinished game is playble now :)",
+    "install_subfolder": "switch",
+    "pattern": [
+        [
+            "TetrisNX"
+        ],
+        ".zip"
+    ],
+    "license": "MIT",
+    "package": "TetrisNX",
+    "release_api": "https://api.github.com/repos/KranKRival/TetrisNX/releases",
+    "website": "https://github.com/KranKRival/TetrisNX/releases",
+    "category": "games",
+    "tags": [
+        "game"
+    ]
+}

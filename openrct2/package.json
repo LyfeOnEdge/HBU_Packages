@@ -1,0 +1,20 @@
+{
+    "name": "OpenRCT2",
+    "author": "rsn8887",
+    "description": "This is my Switch port of OpenRCT2, a re-implementation of RollerCoaster Tycoon 2. A construction and management simulation video game that simulates amusement park management.\\n\\nData files from the original game are required to play this game.\\n\\nVisit my Patreon:\\nhttps://www.patreon.com/rsn8887\\n\\n# Thanks\\n\\nThanks to the many many developers who worked on this open source game.\\n\\nThanks to Chris Sawyer for writing the amazing original game.\\n\\nThanks to Milenko for testing and making screenshots.\\n\\nThanks to my supporters on Patreon: Andyways, CountDuckula, Greg Gibson, Jesse Harlin, \u00d6zg\u00fcr Karter, Matthew Machnee, and RadicalR\\n\\n# Installation\\n\\n- Copy all data files and folders from a working Windows OpenRCT2 installation to `/switch/openrct2/rct2/` so that you have a file `/switch/openrct2/rct2/rct2.exe` and many more files and folders there. For my testing, I used the data files from the gog.com version.\\n\\n- Note: This game takes quite long to load at first, because it generates a bunch of cache files. Subsequent boots are much faster.\\n\\n# Controls\\n\\nLeft analog stick = mouse pointer control\\nRight analog stick = scroll the map\\nR = left mouse click\\nL = right mouse click\\nZR = hold to slow down analog joystick mouse, useful to precisely position the pointer\\nZL = hold to speed up analog joystick mouse\\nA = right mouse click\\nB = left mouse click\\nY = shift key, hold and move mouse up/down to build above the ground\\nX = ctrl key, hold and move mouse to build multiple pieces at the same height above ground\\nDpad up = zoom out (page up key)\\nDpad down = zoom in (page down key)\\nDpad left = close topmost window (backspace key)\\nDpad right = exit construction mode (escape key)\\nR3 (press right stick in) = open cheat menu (ctrl-alt-c)\\nMinus = toggle between three touch control modes:\\nTouchpad style drag pointer with finger and tap to click, default:\\nMove a single finger to move the mouse pointer. Use short tap for left click. Hold a single finger while tapping a second finger for right click. Drag with two fingers to drag and drop.\\nJump to finger without click\\nThe pointer jumps to the finger, but the finger doesn't click. Use L/R or A/B to click\\nJump to finger with tap click\\nThe pointer jumps to the finger, and a short tap also generates a left click\\nPlus = bring up on-screen keyboard, useful for entering names, etc.\\nWhen pressing enter, it first erases existing text and replaces it with new text\\nPhysical USB keyboard and mouse are supported. Not all mice work. There's a mouse compatibility\\nchart.\\n\\nSee :\\n\\nhttps://github.com/rsn8887/openrct2/releases/latest for detailed installation instructions.\\n\\nThis is an initial appstore release and may include the full game in time.",
+    "install_subfolder": "switch",
+    "pattern": [
+        [
+            "openrct2"
+        ],
+        ".zip"
+    ],
+    "license": "GPLv3",
+    "package": "openrct2",
+    "release_api": "https://api.github.com/repos/rsn8887/OpenRCT2/releases",
+    "website": "https://github.com/rsn8887/OpenRCT2/releases",
+    "category": "games",
+    "tags": [
+        "game"
+    ]
+}

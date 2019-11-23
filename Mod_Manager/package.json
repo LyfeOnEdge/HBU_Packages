@@ -1,0 +1,20 @@
+{
+    "name": "Mod-Manager",
+    "author": "Syzygye",
+    "description": "Enable and disable LayeredFS mods quickly.\\n\\nCompatible with Atmosphere and Sxos.",
+    "install_subfolder": "switch/Mod_Manager",
+    "pattern": [
+        [
+            "Mod_Manager"
+        ],
+        ".nro"
+    ],
+    "license": "GPLv3",
+    "package": "Mod_Manager",
+    "release_api": "https://api.github.com/repos/Syzygye/Mod-Manager/releases",
+    "website": "https://github.com/Syzygye/Mod-Manager/releases",
+    "category": "homebrew",
+    "tags": [
+        "tool"
+    ]
+}

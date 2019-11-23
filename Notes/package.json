@@ -1,0 +1,20 @@
+{
+    "name": "Notes",
+    "author": "Such Meme, Many Skill",
+    "description": "With this app, you can take notes on your switch. For example, you can use this as a list to remember which games you want to play, or take a quick one line (max 79 character) note for anything. You can give each note one of 4 colours: red, green, magenta or cyan.",
+    "install_subfolder": "switch/Notes",
+    "pattern": [
+        [
+            "Notes"
+        ],
+        ".nro"
+    ],
+    "license": "GPLv2",
+    "package": "Notes",
+    "release_api": "https://api.github.com/repos/suchmememanyskill/Notes/releases",
+    "website": "https://github.com/suchmememanyskill/Notes/releases",
+    "category": "homebrew",
+    "tags": [
+        "tool"
+    ]
+}

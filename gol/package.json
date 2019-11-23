@@ -1,0 +1,20 @@
+{
+    "name": "Game of Life",
+    "author": "Srynetix",
+    "description": "How to play\\n\\nL: Pause game\\nR: Resume game\\nA: Randomize cells\\nX: Clear screen\\nY: Speed up x5\\n+: Quit game\\n\\nPress touch screen to revive cells.",
+    "install_subfolder": "switch/gol",
+    "pattern": [
+        [
+            "gol"
+        ],
+        ".nro"
+    ],
+    "license": "none",
+    "package": "gol",
+    "release_api": "https://api.github.com/repos/Srynetix/libnx-gol/releases",
+    "website": "https://github.com/Srynetix/libnx-gol/releases",
+    "category": "games",
+    "tags": [
+        "game"
+    ]
+}

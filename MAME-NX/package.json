@@ -1,0 +1,20 @@
+{
+    "name": "MAME-NX",
+    "author": "lantus",
+    "description": "MAME 0.72 for the Nintendo Switch",
+    "install_subfolder": "switch/MAME-NX",
+    "pattern": [
+        [
+            "mame-nx"
+        ],
+        ".zip"
+    ],
+    "license": "none",
+    "package": "MAME-NX",
+    "release_api": "https://api.github.com/repos/lantus/mame-nx/releases",
+    "website": "https://github.com/lantus/mame-nx/releases",
+    "category": "emulators",
+    "tags": [
+        "emu"
+    ]
+}

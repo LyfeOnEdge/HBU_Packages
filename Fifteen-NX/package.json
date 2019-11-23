@@ -1,0 +1,20 @@
+{
+    "name": "Fifteen NX",
+    "author": "Manurocker95",
+    "description": "Fifteen Puzzle game for the Switch.\\n\\nNote : No info provided from the author.",
+    "install_subfolder": "switch/Fifteen-NX",
+    "pattern": [
+        [
+            "Fifteen_NX"
+        ],
+        ".nro"
+    ],
+    "license": "GPLv3",
+    "package": "Fifteen-NX",
+    "release_api": "https://api.github.com/repos/Manurocker95/FifteenNX/releases",
+    "website": "https://github.com/Manurocker95/FifteenNX/releases",
+    "category": "games",
+    "tags": [
+        "game"
+    ]
+}

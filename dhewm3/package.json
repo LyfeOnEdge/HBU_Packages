@@ -1,0 +1,20 @@
+{
+    "name": "dhewm3",
+    "author": "fgsfdsfgs",
+    "description": "dhewm 3 is a Doom 3 GPL source port, known to work on at least Windows, Linux, macOS and FreeBSD.\\n\\nThe goal of dhewm 3 is bring DOOM 3 with the help of SDL to all suitable platforms.\\n\\nBugs present in the original DOOM 3 will be fixed (when identified) without altering the original gameplay.\\n\\nThe official homepage is: https://dhewm3.org\\n\\nThe project is hosted at: https://github.com/dhewm\\n\\nDownload the latest release: https://github.com/dhewm/dhewm3/releases/latest\\n\\nConsult the FAQ at: https://github.com/dhewm/dhewm3/wiki/FAQ\\n\\nReport bugs here: https://github.com/dhewm/dhewm3/issues\\n\\n\\nCompared to the original DOOM 3, the changes of dhewm 3 worth mentioning are:\\n\\n64-bit port\\nSDL for low-level OS support, OpenGL and input handling\\nOpenAL for audio output, all OS-specific audio backends are gone\\nOpenAL EFX for EAX reverb effects (read: EAX-like sound effects on all platforms/hardware)\\nBetter support for widescreen (and arbitrary display resolutions)\\nA portable build system based on CMake\\n(Cross-)compilation with MinGW-w64\\n\\n\\nThe game, both the NRO and the data files (i.e. the base and/or d3xp folders), should be installed to /switch/dhewm3/ on your SD card.\\n\\nnxlink debugging is enabled when either DEBUG or NXLINK_DEBUG is defined.\\n\\nCopy over pak000.pk4 through pak008.pk4 from your PC Doom 3 installation's base folder to /switch/dhewm3/base/. Make sure the game is patched to the latest version (1.3.1). The Steam version is already patched. Doom 3 BFG files won't work.",
+    "install_subfolder": null,
+    "pattern": [
+        [
+            "dhewm3nx"
+        ],
+        ".zip"
+    ],
+    "license": "GPLv3",
+    "package": "dhewm3",
+    "release_api": "https://api.github.com/repos/fgsfdsfgs/dhewm3/releases",
+    "website": "https://github.com/fgsfdsfgs/dhewm3/releases",
+    "category": "games",
+    "tags": [
+        "game"
+    ]
+}

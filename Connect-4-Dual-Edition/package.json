@@ -1,0 +1,20 @@
+{
+    "name": "Connect-4-Dual-Edition",
+    "author": "LiquidFenrir",
+    "description": "This is a normal game of Connect 4, for 2 players on Nintendo Switch (hold the joy-cons sideways!) but with a twist!\\nStart a game with L3/R3 or press L/R (depending on who starts) to toggle between normal and pop-out mode, where you remove the bottom piece of a column and make all the ones above fall one rank!\\nThis should add another layer of strategy to the game, making it ten times more fun! No more ties, once the grid is full, carefully drop down columns and try to win!\\nUse the dpad/abxy buttons to select the column to drop your piece, and L3/R3 to validate your action, starting the other player's turn.",
+    "install_subfolder": "switch/Connect-4-Dual-Edition",
+    "pattern": [
+        [
+            "Connect-4-Dual-Edition"
+        ],
+        ".nro"
+    ],
+    "license": "GPLv3",
+    "package": "Connect-4-Dual-Edition",
+    "release_api": "https://api.github.com/repos/LiquidFenrir/Connect-4-Dual-Edition/releases",
+    "website": "https://github.com/LiquidFenrir/Connect-4-Dual-Edition/releases",
+    "category": "games",
+    "tags": [
+        "game"
+    ]
+}

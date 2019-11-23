@@ -1,0 +1,20 @@
+{
+    "name": "HekateBrew",
+    "author": "bemardev",
+    "description": "Features\\n\\nHekateBrew is a simple Nintendo Switch Homebrew for\\n\\nLaunching Hekate configs described in hekate config file and ini directory.\\n(config logos are shown if they are defined as icon= in ini file)\\n\\nLaunching payloads from hekate payloads directory.\\n(payload logos are shown if they exist in payload folder with the same name and .bmp or .png extension)\\n\\nLaunching payloads from Argon-NX payloads directory.\\n(payload logos are shown if they exist in Argon-NX logos directory)\\n\\n\\nCredits\\n\\nswitchbrew for the libnx project and switch-examples\\ndevkitPro for the devkitA64 toolchain and libnx support\\nCTCaer for the continued hekate and storage in payload binary\\nXorTroll for Plutonium\\nSciresM for Atmosphere",
+    "install_subfolder": "switch",
+    "pattern": [
+        [
+            "HekateBrew"
+        ],
+        ".zip"
+    ],
+    "license": "GPLv2",
+    "package": "HekateBrew",
+    "release_api": "https://api.github.com/repos/bemardev/HekateBrew/releases",
+    "website": "https://github.com/bemardev/HekateBrew/releases",
+    "category": "homebrew",
+    "tags": [
+        "tool"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Uiiverse",
+    "author": "meltstrap",
+    "description": "Uiiverse is a re-creation of Nintendo's well-known social network, Miiverse. It allows you to interact with fellow Nintendo fans, give Yeahs to posts, and share screenshots of your favorite games. Now available on Nintendo Switch.\\n\\nUiiverse for Nintendo Switch. This is based on LennyTube. Check it out on https://github.com/noirscape/lennytube.\\n\\nThanks to:\\n\\nNoirscape for creating LennyTube\\njoo and Ashley for testing this\\nThe Uiiverse team for all their support\\nYou for checking this out.\\n",
+    "install_subfolder": "switch/Uiiverse",
+    "pattern": [
+        [
+            "UiiverseSwitch"
+        ],
+        ".nro"
+    ],
+    "license": "Affero GPLv3",
+    "package": "Uiiverse",
+    "release_api": "https://api.github.com/repos/uiiverse/Switch/releases",
+    "website": "https://github.com/uiiverse/Switch/releases",
+    "category": "homebrew",
+    "tags": [
+        "tool"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "name": "sys-clk-Editor",
+    "author": "SunTheCourier",
+    "description": "Edit your sys-clk configuration!\\nThe icon is mostly a placeholder, suggestions for a proper icon are appreciated!\\n\\n",
+    "install_subfolder": "switch/sys-clk-Editor",
+    "pattern": [
+        [
+            "sys-clk-Editor"
+        ],
+        ".nro"
+    ],
+    "license": "GPLv2",
+    "package": "sys-clk-Editor",
+    "release_api": "https://api.github.com/repos/SunTheCourier/sys-clk-Editor/releases",
+    "website": "https://github.com/SunTheCourier/sys-clk-Editor/releases",
+    "category": "homebrew",
+    "tags": [
+        "tool"
+    ]
+}

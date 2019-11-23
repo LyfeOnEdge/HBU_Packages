@@ -1,0 +1,20 @@
+{
+    "name": "Pixel Painter",
+    "author": "16BitWonder",
+    "description": "My first Switch homebrew application, a port of my 3DS application Pixel-Painter.\\nUses the hello-world template from libnx as a base.\\nFeatures:\\n- The ability to draw with six different colors on the screen\\n- Controls and color information on the left side of the screen",
+    "install_subfolder": null,
+    "pattern": [
+        [
+            "Pixel-Painter"
+        ],
+        ".zip"
+    ],
+    "license": "MIT License",
+    "package": "pixel-painter",
+    "release_api": "https://api.github.com/repos/16BitWonder/Pixel-Painter-Switch/releases",
+    "website": "https://github.com/16BitWonder/Pixel-Painter-Switch",
+    "category": "homebrew",
+    "tags": [
+        "tool"
+    ]
+}

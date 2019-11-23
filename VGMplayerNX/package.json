@@ -1,0 +1,20 @@
+{
+    "name": "VGMPlayerNX",
+    "author": "simontime",
+    "description": "A WIP VGM player for Nintendo Switch.\\n\\nIt's a start.\\n\\nControls:\\n\\nZL/ZR: Previous/Next track\\nA: Select file or directory / Play/Pause\\nB: Stop / Go back directory\\nX: Change play mode\\n+: Exit",
+    "install_subfolder": "switch/VGMplayerNX",
+    "pattern": [
+        [
+            "VGMPlayerNX"
+        ],
+        ".nro"
+    ],
+    "license": "GPLv2",
+    "package": "VGMplayerNX",
+    "release_api": "https://api.github.com/repos/simontime/VGMPlayerNX/releases",
+    "website": "https://github.com/simontime/VGMPlayerNX/releases",
+    "category": "homebrew",
+    "tags": [
+        "tool"
+    ]
+}

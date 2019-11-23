@@ -1,0 +1,21 @@
+{
+    "name": "Button Tester",
+    "author": "midstor",
+    "description": "Button-Tester -- Test the buttons on your console",
+    "install_subfolder": "switch/button_tester",
+    "pattern": [
+        [
+            "ButtonTester",
+            "Button-Tester"
+        ],
+        ".nro"
+    ],
+    "license": "none",
+    "package": "button_tester",
+    "release_api": "https://api.github.com/repos/midstor/Button-Tester/releases",
+    "website": "https://github.com/midstor/Button-Tester/releases",
+    "category": "homebrew",
+    "tags": [
+        "tool"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "name": "SkyMM-NX",
+    "author": "caseif",
+    "description": "SkyMM-NX is a simple mod manager that runs on your Switch and provides an easy way to toggle mods on and off.\\n\\nSkyMM will attempt to discover all mods present in Skyrim's ROMFS on the SD card and present them through its interface. Through the interface, you can toggle mods on or off, or change the load order by holding Y. Note that the load order for pure replacement mods (lacking an ESP) will not be preserved when the respective mods are disabled.\\n\\nWhen the save function is invoked, the INI and Plugins files will be modified accordingly and saved to the SD card.\\n\\nCurrently, the app requires that all mods follow a standard naming scheme:\\n\\nBSA files with a suffix must use a hyphen with one space on either side between the base name and the suffix\\nExample: Static Mesh Improvement Mod - Textures.bsa\\nNote that a mod may have exactly one non-suffixed BSA file\\nBSA files with an associated ESP file must match the ESP's name, not including the suffix\\nExample: Static Mesh Improvement Mod - Textures.bsa matches Static Mesh Improvement Mod.esp\\nAll BSA files for a given mod must match each other in name\\nExample: Static Mesh Improvement Mod - Textures.bsa matches Static Mesh Improvement Mod - Meshes.bsa",
+    "install_subfolder": "switch/SkyMM-NX",
+    "pattern": [
+        [
+            "SkyMM-NX"
+        ],
+        ".nro"
+    ],
+    "license": "MIT",
+    "package": "SkyMM-NX",
+    "release_api": "https://api.github.com/repos/caseif/SkyMM-NX/releases",
+    "website": "https://github.com/caseif/SkyMM-NX/releases",
+    "category": "homebrew",
+    "tags": [
+        "tool"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "name": "emummc-toggler",
+    "author": "noirscape",
+    "description": "This very simple homebrew just flips the number in emummc/emummc.ini that determines if Atmosphere should load emuMMC.\\n\\nIdea\\n\\nRemoves the need for SD pulls to reboot from emuMMC to sysMMC or vice versa if using fusee-primary.\\n\\nUsage\\n\\nOpen the .nro using the HBL.\\n\\nPress - to toggle emuMMC on or off.\\nPress + to exit the application.\\n\\nDon't attempt to toggle emuMMC if it says something is wrong. That's bad behavior.",
+    "install_subfolder": "switch/emummc-toggler",
+    "pattern": [
+        [
+            "emuMMC-Toggle"
+        ],
+        ".nro"
+    ],
+    "license": "GPLv3",
+    "package": "emummc-toggler",
+    "release_api": "https://api.github.com/repos/noirscape/emummc-toggler/releases",
+    "website": "https://github.com/noirscape/emummc-toggler/releases",
+    "category": "homebrew",
+    "tags": [
+        "tool"
+    ]
+}

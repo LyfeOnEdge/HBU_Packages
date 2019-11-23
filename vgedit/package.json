@@ -1,0 +1,20 @@
+{
+    "name": "vgedit",
+    "author": "vgmoose",
+    "description": "vgedit is a Video Game text Editor for the Switch. It has basic file browsing functionality (SD card only) and allows text files to be edited directly using either the touch screen or a controller.\\n\\nPressing Plus will save the file, Minus will close it. Hitting A brings up the keyboard and B will be either delete or backspace depending on which mode you are in (when keyboard is up (insert mode), it's backspace, in the overview mode it's delete",
+    "install_subfolder": "switch/vgedit",
+    "pattern": [
+        [
+            "vgedit"
+        ],
+        ".nro"
+    ],
+    "license": "GPLv3",
+    "package": "vgedit",
+    "release_api": "https://api.github.com/repos/vgmoose/vgedit/releases",
+    "website": "https://github.com//releases",
+    "category": "homebrew",
+    "tags": [
+        "tool"
+    ]
+}

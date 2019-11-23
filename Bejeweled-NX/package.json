@@ -1,0 +1,20 @@
+{
+    "name": "Bejeweled NX",
+    "author": "Manurocker95",
+    "description": "No official info provided by the developer.\\n\\n\\nNintendo switch port of  the classic Bejeweled.",
+    "install_subfolder": "switch/Bejeweled-NX",
+    "pattern": [
+        [
+            "Bejeweled_NX"
+        ],
+        ".nro"
+    ],
+    "license": "GPLv3",
+    "package": "Bejeweled-NX",
+    "release_api": "https://api.github.com/repos/Manurocker95/Bejeweled-NX/releases",
+    "website": "https://github.com/Manurocker95/Bejeweled-NX/releases",
+    "category": "games",
+    "tags": [
+        "game"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "name": "OpenMW",
+    "author": "fgsfdsfgs",
+    "description": "OpenMW is an open-source game engine that supports playing Morrowind by Bethesda Softworks. You need to own the game for OpenMW to play Morrowind.\\n\\nOpenMW also comes with OpenMW-CS, a replacement for Bethesda's Construction Set.\\n\\nInstallation and running\\n\\nIf you already have an OpenMW install on your PC:\\n\\nCopy your openmw.cfg into /switch/openmw/config/ (for Windows users: it's in Documents/My Games/OpenMW).\\nCopy your data files (esm, esp, bsa) into /switch/openmw/data/.\\nIf you don't, but you own Morrowind:\\n\\nInstall Morrowind.\\nCopy the Data Files folder and Morrowind.ini file from your Morrowind installation into /switch/openmw/data/.\\nThen run OpenMW from hbmenu.\\n\\nKnown issues\\n\\nExiting the game using the HOME button during a loading screen will crash it.\\nCursor sometimes displays when it shouldn't.\\nPerformance isn't very good.\\nUser accounts that have non-ASCII characters in the name will be treated as an absence of user account (i.e. your saves will go into global).\\n\\nNotes\\n\\nYou have to run this from either NSP hbmenu or from a game override. Applet mode does not offer enough memory.\\nPress MINUS to bring up the software keyboard when an input field is selected.\\nClick LSTICK to enable/disable gamepad cursor control.\\nThis has only been tested with the English release of Morrowind GOTY Edition. Mods should probably work, however you'll have to either edit your openmw.cfg manually or use openmw-launcher on PC, then copy the config file over.\\nIf you have a user account active when you run the game, your saves will go into /switch/openmw/data/USERNAME, otherwise they'll go into /switch/openmw/data/global.\\nIf the game crashes, check /switch/openmw/fatal.log and /switch/openmw/config/openmw.log.\\n\\n\\n\\n\\n\\n",
+    "install_subfolder": "switch",
+    "pattern": [
+        [
+            "openmw_nx"
+        ],
+        ".zip"
+    ],
+    "license": "GPLv3",
+    "package": "openmw",
+    "release_api": "https://api.github.com/repos/fgsfdsfgs/openmw/releases",
+    "website": "https://github.com/fgsfdsfgs/openmw/releases",
+    "category": "games",
+    "tags": [
+        "game"
+    ]
+}

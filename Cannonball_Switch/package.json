@@ -1,0 +1,20 @@
+{
+    "name": "cannonball-switch",
+    "author": "rsn8887",
+    "description": "Overview\\nThis is my Switch port of Cannonball, an enhanced Outrun engine by djyt.\\n\\nThanks djyt for writing such a great program and making sure it is easily portable.\\n\\nThanks to ScHlAuChi for testing.\\n\\nThanks to my Patreon supporters: Andyways, CountDuckula, Matthew Machnee and Sean Ritzo.\\n\\nNOTE: Arcade roms for Outrun Version B are required to run this engine. The roms are NOT included in the download (see installation instructions).\\n\\nA detailed Manual and FAQ are here: https://github.com/djyt/cannonball/wiki\\n\\nSwitch Installation Instructions\\nArcade roms from Outrun version B are required to run this homebrew, they are not included.\\n\\nExtract the contents of cannonball_switch.zip into the folder switch/ on your sdcard. You should have a folder switch/Cannonball_Switch/.\\nObtain the arcade roms for Outrun Version B and extract them into switch/Cannonball_Switch/roms\\nLaunch the .nro file using your favorite homebrew launcher, enjoy Outrun in almost perfect 60 fps.\\nThis version of Cannonball is called 'Cannonball_Switch' to distinguish it from Lantus' port\\nSwitch Controls\\nNote: Buttons can be re-mapped in menu\\n\\nMinus = insert coin\\nPlus = start\\nY = gas / OK in menu B = brake X = change gears\\nL = change in-game camera\\nR = menu Dpad = menu navigation and digital steering wheel controls\\nLeft stick = analog steering wheel if analog is set to ON or WHEEL ONLY, otherwise this is digital. Right stick = analog gas/brake if analog is set to ON\\n\\n\\nRom names\\n-------------------------------------------------------------------------------\\nPlace OutRun Revision B ROMs in this directory.\\nThey must be named as follows:\\n-------------------------------------------------------------------------------\\nepr-10187.88\\nepr-10327a.76\\nepr-10328a.75\\nepr-10329a.58\\nepr-10330a.57\\nepr-10380b.133\\nepr-10381a.132\\nepr-10382b.118\\nepr-10383b.117\\nmpr-10371.9\\nmpr-10372.13\\nmpr-10373.10\\nmpr-10374.14\\nmpr-10375.11\\nmpr-10376.15\\nmpr-10377.12\\nmpr-10378.16\\nopr-10185.11\\nopr-10186.47\\nopr-10188.71\\nopr-10189.70\\nopr-10190.69\\nopr-10191.68\\nopr-10192.67\\nopr-10193.66\\nopr-10230.104\\nopr-10231.103\\nopr-10232.102\\nopr-10266.101\\nopr-10267.100\\nopr-10268.99\\n\\n-------------------------------------------------------------------------------\\nThe original Japanese release of OutRun featured slightly different tracks \\nand course ordering.\\n\\nOptionally, you can include the following files from the Japanese version to\\nplay these alternate tracks:\\n-------------------------------------------------------------------------------\\n\\nepr-10380.133\\nepr-10382.118\\nepr-10381.132\\nepr-10383.117\\nepr-10327.76\\nepr-10329.58\\nepr-10328.75\\nepr-10330.57\\n\\n-------------------------------------------------------------------------------\\nFixed Audio Rom (Optional)\\nhttp://reassembler.blogspot.co.uk/2013/01/outrun-original-game-shipped-with.html\\n-------------------------------------------------------------------------------\\n\\nopr-10188.71f",
+    "install_subfolder": "switch",
+    "pattern": [
+        [
+            "Cannonball"
+        ],
+        "Switch.zip"
+    ],
+    "license": "none",
+    "package": "Cannonball_Switch",
+    "release_api": "https://api.github.com/repos/rsn8887/cannonball/releases",
+    "website": "https://github.com/rsn8887/cannonball/releases",
+    "category": "games",
+    "tags": [
+        "game"
+    ]
+}

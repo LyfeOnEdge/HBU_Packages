@@ -1,0 +1,20 @@
+{
+    "name": "Postal",
+    "author": "MVG",
+    "description": "Ported to the Switch by MVG. Original game by Running with Scissors in 1997\\n\\nOriginal Source Release - https://bitbucket.org/gopostal/postal-1-open-source\\nRunning with Scissors Website - http://runningwithscissors.com/\\n\\nWide Screen and Twin Stick optimized for the Nintendo Switch :)\\nRuns on 5.x firmware.\\n\\nPlace Postal Data files in 'res' folder. You can get Postal Redux for 1.99 on GoG.com or via other means.",
+    "install_subfolder": "switch/postal",
+    "pattern": [
+        [
+            "postal"
+        ],
+        ".zip"
+    ],
+    "license": ".",
+    "package": "postal",
+    "release_api": "https://api.github.com/repos/lantus/postal-nx/releases",
+    "website": "https://github.com/lantus/postal-nx/releases",
+    "category": "games",
+    "tags": [
+        "game"
+    ]
+}

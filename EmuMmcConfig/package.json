@@ -1,0 +1,20 @@
+{
+    "name": "EmuMmcConfig",
+    "author": "KranKRival",
+    "description": "This is a Homebrew app to Control Atmospher's EmuMMC from the Horizon OS.\\n\\ninstructions:\\n1.You must setup EmuMMC as \"Partition\" ^^ ,no files support in the tool for now\\n2.extract the contents of the release to root of the SD Card\\n3.Run the Application\\n4.Proffit ?!\\n\\nFeatures:\\n\\n1.Toogle EmuMMC On/OF\\n2.Switch Between Multi EmuMMC setups\\n3.Reboot to Payload atmosphere/reboot_payload.bin\\nmore soon !!!\\n\\n",
+    "install_subfolder": null,
+    "pattern": [
+        [
+            "EmuMmcConfig"
+        ],
+        ".zip"
+    ],
+    "license": "GPLv3",
+    "package": "EmuMmcConfig",
+    "release_api": "https://api.github.com/repos/KranKRival/EmuMmcConfig/releases",
+    "website": "https://github.com/KranKRival/EmuMmcConfig/releases",
+    "category": "homebrew",
+    "tags": [
+        "tool"
+    ]
+}

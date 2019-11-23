@@ -1,0 +1,20 @@
+{
+    "name": "Kip Select",
+    "author": "Sciguy429",
+    "description": "Warning: Do not use the reboot option if your SD card is formatted as exfat.\\n\\nA WIP toolkit for the switch cfw Atmopshere, it started out as a simple KIP manager but has become much more over time. This toolkit is intended for use with Atmosphere Fusee, it will still somewhat work other packs like Kosmos but stuff may be broken.\\n\\nFeatures:\\n - Enabling And Disabling Of KIPS\\n - Configuring BCT.ini\\n - Managing LayeredFS titles\\n - Console reboot (DO NOT USE WITH EXFAT SDCARD)\\n",
+    "install_subfolder": "switch/KipSelect",
+    "pattern": [
+        [
+            "Kip_Select"
+        ],
+        ".nro"
+    ],
+    "license": "GPLv3",
+    "package": "KipSelect",
+    "release_api": "https://api.github.com/repos/Sciguy429/KipSelect/releases",
+    "website": "https://github.com/Sciguy429/KipSelect",
+    "category": "homebrew",
+    "tags": [
+        "tool"
+    ]
+}

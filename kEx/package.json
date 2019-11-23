@@ -1,0 +1,20 @@
+{
+    "name": "kEx",
+    "author": "klockee",
+    "description": "Use the A button to enter a partition/directory, B button to go back, and + to exit.\\n\\nPress X to copy a file, and Y to paste the file either to the SD card, or the same partition (does not currently work across system partitions). There is currently no indicator during a copy, only after, so give large files some time to copy.\\n\\nPress - to delete a file (press the A button to confirm deletion, any other button to cancel).\\n\\nNOTE: This can be dangerous, use at your own risk!",
+    "install_subfolder": "switch/kEx",
+    "pattern": [
+        [
+            "kEx"
+        ],
+        ".nro"
+    ],
+    "license": "GPL 3.0",
+    "package": "kEx",
+    "release_api": "https://api.github.com/repos/klockee/kEx/releases",
+    "website": "https://github.com/klockee/kEx/releases",
+    "category": "homebrew",
+    "tags": [
+        "tool"
+    ]
+}

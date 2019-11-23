@@ -1,0 +1,20 @@
+{
+    "name": "f2bgl",
+    "author": "usineur",
+    "description": "ABOUT\\n\\nf2bgl is a re-implementation of the engine used in the game Fade To Black\\nmade by Delphine Software and released in 1995.\\n\\nTHIS DOWNLOAD COMES WITH THE PC DEMO VERSION FOR YOU TO TRY.\\n\\nFollow the info here https://github.com/usineur/f2bgl to include the full game.\\n\\nCONTROLS\\n\\nIn-game hotkeys\\n\\nLeft stick / Left D-pad    Move Conrad (run)\\nHold R + Move Conrad    Walk, step aside (also in gun mode)\\nA    Activate / Shoot\\nB    Toggle gun mode\\nY    Reload gun\\nX    Jump\\nZR    Use secondary weapon\\nZL    Use item\\n-    Open inventory menu\\n+    Open saveload menu\\n\\nInventory menu\\n    \u202f\\nL    Next category\\nR    Consult item\\nA    Select item\\n<    Previous item\\n>    Next item\\n-    Exit this menu\\n\\nSaveload menu\\n    \u202f\\nup/down    Toggle Save / Load mode\\nleft/right    Previous / Next slot\\nA    Validate\\n+    Exit this menu\\n\\nKNOWN BUGS/ISSUES\\n\\nYou may encounter graphics glitches and crashes. Some of them exists in the original engine which is still WIP.\\nNote: this port is based on the 0.2.3 version.\\n\\nCREDITS\\n\\nGregory Montoir, for the original engine;\\nEverybody behind libnx, SDL2, OpenGL, mesa, libdrm, ...",
+    "install_subfolder": "switch/f2bgl",
+    "pattern": [
+        [
+            "f2bgl"
+        ],
+        ".nro"
+    ],
+    "license": "none listed",
+    "package": "f2bgl",
+    "release_api": "https://api.github.com/repos/usineur/f2bgl/releases",
+    "website": "https://github.com/usineur/f2bgl/releases",
+    "category": "games",
+    "tags": [
+        "game"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "name": "powder-nx",
+    "author": "VelocityRa",
+    "description": "Have you ever wanted to blow something up? Or maybe you always dreamt of operating an atomic power plant? Do you have a will to develop your own CPU? The Powder Toy lets you to do all of these, and even more!\\n\\nThe Powder Toy is a physics sandbox game, which simulates air pressure and velocity, heat, gravity and a countless number of interactions between different substances! The game provides you with various building materials, liquids, gases and electronic components which can be used to construct complex machines, guns, bombs, realistic terrains and almost anything else. You can then mine them and watch cool explosions, add intricate wirings, play with little stickmen or operate your machine.\\n",
+    "install_subfolder": "switch/powder-nx",
+    "pattern": [
+        [
+            "powder-nx"
+        ],
+        ".nro"
+    ],
+    "license": "GPLv3",
+    "package": "powder-nx",
+    "release_api": "https://api.github.com/repos/VelocityRa/powder-nx/releases",
+    "website": "https://github.com/VelocityRa/powder-nx",
+    "category": "games",
+    "tags": [
+        "game"
+    ]
+}

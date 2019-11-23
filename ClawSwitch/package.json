@@ -1,0 +1,21 @@
+{
+    "name": "ClawSwitch",
+    "author": "djmuted",
+    "description": "Captain Claw is a side-scrolling action platformer released on PCs by Monolith in 1997. The difficulty of the game is quite high, but still the game is really fun to play. Your goal is to defeat enemies, collect treasure and defeat bosses on your way.\\n\\nControls:\\nA - Fire (Pistol/Magic Claw/Dynamite)\\nB - Jump\\nX - Switch weapon\\nY - Melee attack\\nMinus - open in-game menu\\nD-Pad - walk left/right, look up/down, climb up/down\\nYou can also use the left analog to do anything the d-pad does, but it's still a bit wacky and not recommended.\\nThere are also touch controls emulating the d-pad, which are leftovers from the Android version. They will be removed in a next beta release. \\n\\nBugs:\\n\\n- not all levels are yet implemented, the game is playable to the 10th level, 11 is playable but very buggy and not yet complete\\n- analog controls are wacky (use the d-pad)\\n- music does not yet work, but in-game sounds do\\n- FPS drops to 55 in docked mode, making the sound a bit distorted\\n\\nCheats:\\n\\nYou can modify your game saves by editing /switch/claw/SAVES.XML file. ",
+    "install_subfolder": null,
+    "pattern": [
+        [
+            "ClawSwitch",
+            "SwitchClaw"
+        ],
+        ".zip"
+    ],
+    "license": "GPLv3",
+    "package": "ClawSwitch",
+    "release_api": "https://api.github.com/repos/djmuted/ClawSwitch/releases",
+    "website": "https://github.com/djmuted/ClawSwitch/releases",
+    "category": "games",
+    "tags": [
+        "game"
+    ]
+}

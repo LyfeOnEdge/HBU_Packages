@@ -1,0 +1,20 @@
+{
+    "name": "nxquake",
+    "author": "fgsfdsfgs",
+    "description": "Switch port of TyrQuake (only the NetQuake part).\\n\\n If you have the full version, copy both pak0.pak and pak1.pak to /switch/nxquake/id1/.\\nIf you want to play Scourge of Armagon, copy pak0.pak from hipnotic to /switch/nxquake/hipnotic/. If you want to play Dissolution of Eternity, copy pak0.pak from rogue to /switch/nxquake/rogue/.\\nMake sure the pak files and the id1 directory have all-lowercase names, just in case.\\nYou can run NXQuake using Homebrew Launcher.\\nIf it crashes, look for console.log and error.log in /switch/nxquake/.\\nMission Packs and mods are supported. If you have more game folders than just id1 in /switch/nxquake/, a mod select menu will pop up when you launch NXQuake.\\n\\nTHIS DOWNLOAD INCLUDES THE SHAREWARE VERSION OF THE GAME.",
+    "install_subfolder": null,
+    "pattern": [
+        [
+            "nxquake"
+        ],
+        ".zip"
+    ],
+    "license": "GPLv2",
+    "package": "nxquake",
+    "release_api": "https://api.github.com/repos/fgsfdsfgs/nxquak/releases",
+    "website": "https://github.com/fgsfdsfgs/nxquake/releases",
+    "category": "games",
+    "tags": [
+        "game"
+    ]
+}

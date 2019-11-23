@@ -1,0 +1,20 @@
+{
+    "name": "OpenTTD",
+    "author": "rsn8887",
+    "description": "# About\\nOpenTTD is a transport simulation game based upon the popular game Transport Tycoon Deluxe, written by Chris Sawyer. It attempts to mimic the original game as closely as possible while extending it with new features.\\n\\nOpenTTD is licensed under the GNU General Public License version 2.0, but includes some 3rd party software under different licenses. See the section \"Licensing\" below for details.\\n\\n# Contacting\\nThe easiest way to contact the OpenTTD team is by submitting bug reports or posting comments in our forums. You can also chat with us on IRC (#openttd on irc.oftc.net).\\n\\nThe OpenTTD homepage is https://www.openttd.org.\\n\\nYou can also find the OpenTTD forums at https://www.tt-forums.net.\\n\\nThis is my Switch port of OpenTTD, a re-implementation of Transport Tycoon Deluxe.\\n\\nPort by @rsn8887, based on the Vita port by @angguss. I made some control enhancements and I also enabled sound on the Vita port, too (pull request to @angguss made).\\n\\n# Thanks\\n\\nThanks to the many developers who worked on this game.\\n\\nThanks to @angguss for his excellent Vita port, on which this Switch port is based.\\n\\nThanks to my supporters on Patreon: Andyways, CountDuckula, Greg Gibson, Jesse Harlin, \u00d6zg\u00fcr Karter, Matthew Machnee, and RadicalR.\\n\\n# Installation\\n\\nA public domain graphics set (OpenGFX) is included. If you want the choice to also use original dos game graphics, copy over the files\\n```\\nSAMPLE.CAT\\nTRHCOM.GRF\\nTREND.GRF\\nTRTITLE.GRF\\nTRG1.GRF\\nTRGC.GRF\\nTRGH.GRF\\nTRGI.GRF\\nTRGT.GRF\\n```\\nto `/switch/openttd/baseset/`\\n\\nIf the above files are present, a new option will appear when you go to game settings from the titlescreen. There you can select between the two graphics sets `original dos` and `openGFX`.\\n\\n# Controls\\n\\n- Left analog stick = mouse pointer control\\n- D-Pad or right analog stick = scrolling the map.\\n- A/right trigger = left mouse click\\n- B/left trigger = right mouse click\\n- Y = zoom-in\\n- X = zoom-out\\n- Double click A/right trigger over a text field = bring up on-screen keyboard\\n- The touch screen is used for indirect mouse input, like on a laptop touchpad. Move a single finger to move the mouse pointer. Use short tap for left click. Hold a single finger while tapping a second finger for right click. Drag with two fingers to drag and drop.\\n\\n# Current Limitations\\n\\n- No music (requires midi)\\n- No network support\\n",
+    "install_subfolder": "switch",
+    "pattern": [
+        [
+            "openttd"
+        ],
+        "switch.zip"
+    ],
+    "license": "GPLv2",
+    "package": "OpenTTD",
+    "release_api": "https://api.github.com/repos/rsn8887/OpenTTD/releases",
+    "website": "https://github.com/rsn8887/OpenTTD",
+    "category": "homebrew",
+    "tags": [
+        "game"
+    ]
+}

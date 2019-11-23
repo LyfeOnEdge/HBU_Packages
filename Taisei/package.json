@@ -1,0 +1,20 @@
+{
+    "name": "taisei",
+    "author": "taisei-project",
+    "description": "Taisei (\u6cf0\u897f, lit. Occident) is a free and open-source fangame of the T\u014dh\u014d series, written in C using SDL2 and OpenGL.\\n\\nBasically, it is a shoot \u2019em up game with lots of bullets (the genre is literally called bullet hell). It doesn\u2019t aim to rebuild a particular installment of the T\u014dh\u014d games, but is rather an original game set in the world of T\u014dh\u014d. Enjoy dodging through 6 stages full of new bullet patterns on four difficulty levels!\\n\\nIf you have never played T\u014dh\u014d before, you can have a look at our manual for an explanation of the controls and game mechanics. The game is mostly done and very playable, so feel free to give it a try!\\n\\nVisit our website at https://taisei-project.org/ for more information.\\n\\nThe license is linked here :\\n\\nhttps://github.com/taisei-project/taisei/blob/master/COPYING",
+    "install_subfolder": "switch/taisei",
+    "pattern": [
+        [
+            "Taisei"
+        ],
+        "switch-aarch64.zip"
+    ],
+    "license": "n/a",
+    "package": "Taisei",
+    "release_api": "https://api.github.com/repos/taisei-project/taisei/releases",
+    "website": "https://github.com/taisei-project/taisei/releases",
+    "category": "games",
+    "tags": [
+        "game"
+    ]
+}

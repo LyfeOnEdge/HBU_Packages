@@ -1,0 +1,20 @@
+{
+    "name": "ScreenTester-NX",
+    "author": "marice",
+    "description": "This program displays different colors to detect dead/stuck pixels on your Nintendo-Switch screen.It can cycle colors on your Switch screen very rapidly to try and repair stuck/dead pixels.",
+    "install_subfolder": null,
+    "pattern": [
+        [
+            "ScreenTester"
+        ],
+        ".zip"
+    ],
+    "license": ".",
+    "package": "ScreenTester",
+    "release_api": "https://api.github.com/repos/Marice/ScreenTester-NX/releases",
+    "website": "https://github.com/Marice/ScreenTester-NX/releases",
+    "category": "homebrew",
+    "tags": [
+        "tool"
+    ]
+}

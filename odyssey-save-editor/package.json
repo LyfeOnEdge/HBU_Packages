@@ -1,0 +1,20 @@
+{
+    "name": "Mario-Odyssey-Save-Editor",
+    "author": "jonyluke",
+    "description": "At the moment it only works with the coins.\\n\\nGame must be close when editing.\\n\\n-Use DPAD to increase or decrease the quantity -Press A to apply -Press B to exit (If you do not exit with this option, the changes will not take effect)\\n\\nThis project is based on the save switch-examples from switchbrew.",
+    "install_subfolder": "switch",
+    "pattern": [
+        [
+            "MarioOdysseySaveEditor"
+        ],
+        ".zip"
+    ],
+    "license": "none listed",
+    "package": "odyssey-save-editor",
+    "release_api": "https://api.github.com/repos/jonyluke/Mario-Odyssey-Save-Editor/releases",
+    "website": "https://github.com/jonyluke/Mario-Odyssey-Save-Editor/releases",
+    "category": "homebrew",
+    "tags": [
+        "homebrew"
+    ]
+}

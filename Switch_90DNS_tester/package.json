@@ -1,0 +1,20 @@
+{
+    "name": "Switch_90DNS_tester",
+    "author": "meganukebmp",
+    "description": "A simple switch homebrew that does DNS resolution to see if we reach Nintendo's servers.",
+    "install_subfolder": "switch/Switch_90DNS_tester",
+    "pattern": [
+        [
+            "90DNS"
+        ],
+        ".nro"
+    ],
+    "license": "Lesser GPLv3",
+    "package": "Switch_90DNS_tester",
+    "release_api": "https://api.github.com/repos/meganukebmp/Switch_90DNS_tester/releases",
+    "website": "https://github.com/meganukebmp/Switch_90DNS_tester/releases",
+    "category": "homebrew",
+    "tags": [
+        "tool"
+    ]
+}

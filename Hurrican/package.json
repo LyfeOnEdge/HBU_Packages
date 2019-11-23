@@ -1,0 +1,20 @@
+{
+    "name": "Hurrican",
+    "author": "rsn8887",
+    "description": "This is my Switch port of Hurrican, a freeware jump and shoot game created by Poke53280 that is based on the Turrican game series. Blast your way through nine action-packed levels filled with different enemies and powerups.\\n\\nEverything needed to play is already included in the archive.\\n\\nPort by @rsn8887.\\n\\nVisit my Patreon: https://www.patreon.com/rsn8887\\n\\nTHANKS\\n\\nThanks to Poke53280 team for making such a great game, releasing the source, and making it freeware.\\n\\nThanks to the other developers such as DKS and Pickle for extending the Hurrican source and adding SDL/OpenGL-ES support and more.\\n\\nThanks to ScHlAuChi for telling me about this.\\n\\nThanks to devkitPro for making Switch homebrew possible.\\n\\nThanks to my supporters on Patreon: Andyways, CountDuckula, Jason Crawford, Greg Gibson, Jesse Harlin, \u00d6zg\u00fcr Karter, Matthew Machnee, Milenko, and RadicalR.\\n\\nControls\\nLeft analog stick = walk/duck/aim (hold up/down to look)\\nDpad = walk/duck/aim (hold up/down to look)\\nY = shoot\\nB = jump\\nX = hold for lightning beam (control angle with stick/dpad left/right)\\nA = powerline\\nR = grenade\\nL = cycle weapon type\\nZR = smart bomb\\nCurrent Limitations\\nDon't try to remap buttons in the controls menu, it asks for a button press, but doesn't react to Joycon input. The only way out is to force quit the game with the home button. If you mess up preferences, just delete /switch/Hurrican/hurrican.cfg\\n\\nThe tutorial level (if you select \"Start Tutorial\" instead of \"Start New Game\") currently crashes just after loading.",
+    "install_subfolder": "switch",
+    "pattern": [
+        [
+            "Hurrican"
+        ],
+        ".zip"
+    ],
+    "license": "n/a",
+    "package": "Hurrican",
+    "release_api": "https://api.github.com/repos/rsn8887/Hurrican/releases",
+    "website": "https://github.com/rsn8887/Hurrican/releases",
+    "category": "games",
+    "tags": [
+        "game"
+    ]
+}

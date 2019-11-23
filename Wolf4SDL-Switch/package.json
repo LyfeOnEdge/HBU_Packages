@@ -1,0 +1,20 @@
+{
+    "name": "Wolf4SDL",
+    "author": "keeganatorr",
+    "description": "NOTICE: Requires a wolf3d folder from your Wolfenstein 3d install (Activision/GT version) copied to sd:/switch/wolf4sdl/ folder, and will crash without this.\\n\\n cross-platform port of Wolfenstein 3D with a number of changes and additions.\\n\\nControls\\n\\nKeys\t        Controls\\nD-Pad Up\tForward\\nD-Pad Down\tBack\\nD-Pad Left\tTurn Left\\nD-Pad Right\tTurn Right\\nMinus\t        Return to Menu/ESC\\nPlus\t        Pause\\nA / ZR\t        Fire/OK\\nB\t        Open\\nX\t        Strafe/Turn\\nY / ZL   \tRun\\nL\t        Previous Weapon\\nR\t        Next Weapon\\n\\nINSTALL\\n\\nwolf3d/audiohed.wl6\\nwolf3d/audiot.wl6\\nwolf3d/config.wl6\\nwolf3d/gamemaps.wl6\\nwolf3d/maphead.wl6\\nwolf3d/savegam0.wl6\\nwolf3d/vgadict.wl6\\nwolf3d/vgagraph.wl6\\nwolf3d/vgahead.wl6\\nwolf3d/vswap.wl6\\nTo /switch/wolf4sdl/ on SD Card",
+    "install_subfolder": "switch/wolf3d",
+    "pattern": [
+        [
+            "Wolf4SDL"
+        ],
+        ".nro"
+    ],
+    "license": "none",
+    "package": "Wolf4SDL-Switch",
+    "release_api": "https://api.github.com/repos/keeganatorr/Wolf4SDL-Switch/releases",
+    "website": "https://github.com/keeganatorr/Wolf4SDL-Switch/releases",
+    "category": "games",
+    "tags": [
+        "game"
+    ]
+}

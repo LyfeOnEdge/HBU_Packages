@@ -1,0 +1,20 @@
+{
+    "name": "Fuck-U",
+    "author": "lolicop123",
+    "description": "A homebrew that says 'Fuck you.'on the screen of your Nintendo Switch\\n\\n\\nALL THE FEATURES: Press A to say 'Fuck you.' Press B to say 'Bitch' Press X to say 'Shut up' Press Y to clear the screen.",
+    "install_subfolder": "switch/fuckyou",
+    "pattern": [
+        [
+            "frick.u"
+        ],
+        ".nro"
+    ],
+    "license": ".",
+    "package": "fuckyou",
+    "release_api": "https://api.github.com/repos/lolicop123/fuck-u/releases",
+    "website": "https://github.com/lolicop123/fuck-u/releases",
+    "category": "homebrew",
+    "tags": [
+        "concept"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Minesweeper",
+    "author": "rincew1nd",
+    "description": "Basic implementation of Minesweeper in C++ and SDL2 for Nintendo Switch.\\n\\nFeel free to report bugs and contribute!\\n\\nControls\\nPlus for exit\\nTouch screen for anything else",
+    "install_subfolder": "switch/Minesweeper",
+    "pattern": [
+        [
+            "Minesweeper-Switch"
+        ],
+        ".nro"
+    ],
+    "license": ".",
+    "package": "Minesweeper",
+    "release_api": "https://api.github.com/repos/rincew1nd/Minesweeper-Switch/releases",
+    "website": "https://github.com/rincew1nd/Minesweeper-Switch/releases",
+    "category": "games",
+    "tags": [
+        "game"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "name": "GoldBricks",
+    "author": "blawar",
+    "description": "This is an evolution of the popular Goldleaf application to support even more features such as Nut, GDRive, and NSP compression (NSZ).\\n\\nUSB Installer\\nIt is extremely important to note that this does not work with Quark, Fluffy, or NS-USBLoader. This only works with Nut os SX Server for USB installs.\\n\\nIf you really insist on using the old USB Installers, I will maintain a release that still has them. Currently 0.7.3 in the releases section supports these old USB installers.\\n\\n\\nHigh Memory Requirement\\nThere is not enough free memory left to add NSZ support in applet mode. Therefore title installs will require that GoldBricks be ran in high memory mode via title override or a piracy NSP forwarder (not provided in this download but from the source URL).",
+    "install_subfolder": null,
+    "pattern": [
+        [
+            "goldbricks"
+        ],
+        ".zip"
+    ],
+    "license": "GPLv3",
+    "package": "GoldBricks",
+    "release_api": "https://api.github.com/repos/blawar/goldbricks/releases",
+    "website": "https://github.com/blawar/goldbricks/releases",
+    "category": "homebrew",
+    "tags": [
+        "homebrew"
+    ]
+}

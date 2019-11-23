@@ -1,0 +1,20 @@
+{
+    "name": "Hot-Pocolate",
+    "author": "illteteka",
+    "description": "HOT POCOLATE is an application built for monster collecting cop-locked .gifs and blending them into a silk-seizure anxiety-maize.\\n\\nHow to play: Before playing HOT POCOLATE, queue up some music and get in a comfortable position. Hold the the left Joycon like a TV remote and hit any button on beat with the music. After becoming entranced, the background will sync up with the music that is playing.\\n\\nWARNING: Hot Pocolate may potentially trigger seizures for people with photosensitive epilepsy.\\n\\nFeatures:\\nBinary versions of HOT POCOLATE contain over 100!! (wow!) unique .gifs to scroll through at your leisure.\\nTwo semi-secret chief executive officer battles inspired by classic arcade games.\\nThe good stuff:\\nHOT POCOLATE is applicable to several unique operating systems, including:\\n\\nA Nintendo Switch capable of running homebrew (tested and working on firmware 5.1.0)\\nA screensaver for Microsoft Windows\\nYour overpriced Mac computer\\n\\nMade with love, ILL TETEKA, 2018\\n\\nSpecial thanks: NotQuiteApex for testing and feature suggestions (GO PLAY HIS GAME!!!!!), TurtleP for porting L\u00f6ve to the honking Switch, Chris for convincing me to finish this, And YOU especially if you\u2019re still reading this...\\n\\nTroubleshooting, Nintendo Switch only: If the application refuses to boot for whatever reason, start Hot Pocolate with both Joycons attached and then remove the left Joycon when the application starts. In docked mode, I get good results by placing the Switch in sleep mode before docking.",
+    "install_subfolder": "switch",
+    "pattern": [
+        [
+            "HotPocolate"
+        ],
+        ".nro"
+    ],
+    "license": "GPL3",
+    "package": "hot_pocolate",
+    "release_api": "https://api.github.com/repos/illteteka/Hot-Pocolate/releases",
+    "website": "https://github.com/illteteka/Hot-Pocolate/releases",
+    "category": "games",
+    "tags": [
+        "game"
+    ]
+}

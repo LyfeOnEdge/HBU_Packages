@@ -1,0 +1,20 @@
+{
+    "name": "Payload_Launcher",
+    "author": "Such Meme, Many Skill",
+    "description": "With this app you can list a folder, and launch payloads inside of it. You can also favourite a payload for quick launching with X, and set the currently selected payload as atmosphere's reboot payload by pressing -.",
+    "install_subfolder": "switch/Payload_launcher",
+    "pattern": [
+        [
+            "Payload_Launcher"
+        ],
+        ""
+    ],
+    "license": "MIT",
+    "package": "Payload_launcher",
+    "release_api": "https://api.github.com/repos/suchmememanyskill/Payload_Launcher/releases",
+    "website": "https://github.com/suchmememanyskill/Payload_Launcher",
+    "category": "homebrew",
+    "tags": [
+        "tool"
+    ]
+}

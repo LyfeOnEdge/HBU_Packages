@@ -1,0 +1,20 @@
+{
+    "name": "nx-TAS",
+    "author": "hamhub7",
+    "description": "nx-TAS\\nRewrite of TAS-nx\\n\\nnx-TAS is fundamentally different than its predecessor, TAS-nx, in that it uses a virtual controller to send inputs instead of changing the inputs of the currently used controller.\\n\\nFeatures\\nNew features are already planned, such as changing the tye of controller (pro, joycons, sideways joycons, and possibly other controllers), multiple player TAS support, motion controls, some way to combat variable load times and rng (for most games), and color customizaition of the controllers.\\n\\nUsage\\nFirst of all, you need to have an Atmosphere-injected Switch.\\n\\nKeybinds\\n\\nYou need to have a USB keyboard attached to your Switch, either via the dock or a USB-A to USB-C adapter in the charging port.\\n\\nControllers\\n\\n1 = Pro Controller\\n2 = Pair of Joycons (this adds two controllers; exists for ease-of-use)\\n3 = Left Joycon\\n4 = Right Joycon\\n5 = Famicom Controller\\n6 = Famicom Controller with mic\\n7 = NES Controller\\n8 = Unused SNES-style Controller/Pad\\n- = Remove the most recently added controller\\n\\nScripts\\n\\nf1 = sdmc:/scripts/script1.txt\\nf2 = sdmc:/scripts/script2.txt\\n...\\nf12 = sdmc:/scripts/script12.txt",
+    "install_subfolder": null,
+    "pattern": [
+        [
+            "nx-TAS"
+        ],
+        ".zip"
+    ],
+    "license": "n/a",
+    "package": "nx-TAS",
+    "release_api": "https://api.github.com/repos/hamhub7/nx-TAS/releases",
+    "website": "https://github.com/hamhub7/nx-TAS/releases",
+    "category": "homebrew",
+    "tags": [
+        "advanced"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Sdl Pong",
+    "author": "Cheeze",
+    "description": "This is my pretty basic attempt at implementing pong for the nintendo switch using c++ and sdl2. Im no expert at writing programs or nothing. It still needs a lot of work, anywho enjoy!",
+    "install_subfolder": "switch",
+    "pattern": [
+        [
+            "Release",
+            "switch_sdl_pong"
+        ],
+        ".zip"
+    ],
+    "license": ".",
+    "package": "sdl_pong",
+    "release_api": "https://api.github.com/repos/I-EAT-CHEEZE-YO/switch_sdl_pong/releases",
+    "website": "https://github.com/I-EAT-CHEEZE-YO/switch_sdl_pong/releases",
+    "category": "games",
+    "tags": [
+        "game"
+    ]
+}

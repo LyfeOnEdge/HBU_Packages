@@ -1,0 +1,20 @@
+{
+    "name": "CuteManga",
+    "author": "darkxex",
+    "description": "manga and comic reader for Nintendo Switch.\\n\\nHow use\\n\\nCreate a folder in the root SD memory named \"CuteManga\" and put your \"Manga / Comic / Webtoon\" inside, if the folder has Latin characters (example: \u00f1, \u00e1, \u00ed) remove them first.",
+    "install_subfolder": "switch/CuteManga",
+    "pattern": [
+        [
+            "CuteManga"
+        ],
+        ".nro"
+    ],
+    "license": "GPLv3",
+    "package": "CuteManga",
+    "release_api": "https://api.github.com/repos/darkxex/CuteManga/releases",
+    "website": "https://github.com/darkxex/CuteManga/releases",
+    "category": "homebrew",
+    "tags": [
+        "tool"
+    ]
+}

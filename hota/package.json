@@ -1,0 +1,20 @@
+{
+    "name": "hota",
+    "author": "usineur",
+    "description": "Heart of The Alien open-source engine rewrite.\\n\\nSee the source Link for more info.",
+    "install_subfolder": "switch/HOTA",
+    "pattern": [
+        [
+            "HOTA"
+        ],
+        ".nro"
+    ],
+    "license": ".",
+    "package": "hota",
+    "release_api": "https://api.github.com/repos/switch/HOTA/releases",
+    "website": "https://github.com/usineur/hota",
+    "category": "games",
+    "tags": [
+        "game"
+    ]
+}

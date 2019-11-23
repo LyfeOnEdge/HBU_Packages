@@ -1,0 +1,20 @@
+{
+    "name": "xrick",
+    "author": "C0Ck3r",
+    "description": "Instructions\\n\\nWalk through the maps, avoid traps, kill the Bad Guys ... and try to stay alive long enough to accomplish your mission!\\n\\nRick can fire bullets, lay sticks of dynamite, walk, crawl, climb, and also poke walls or Bad Guys with his stick. Poking walls can trigger traps, open doors, etc. although sometime a dynamite stick or a bullet is needed ... go figure. Rick starts with six bullets in his gun, and six sticks of dynamite, as shown by the icons at the top of the screen.\\n\\nControls\\n\\nUse the D-Pad to control Rick and use the following action combinations\\n\\nB+UP = fire a bullet.\\nB+DOWN = lay a stick of dynamite\\nB+LEFT, B+RIGHT = poke a wall (or anything else) with your stick",
+    "install_subfolder": "switch/xrick",
+    "pattern": [
+        [
+            "xrick"
+        ],
+        ".nro"
+    ],
+    "license": "n/a",
+    "package": "xrick",
+    "release_api": "https://api.github.com/repos/C0Ck3r/xrick/releases",
+    "website": "https://github.com/C0Ck3r/xrick/releases",
+    "category": "games",
+    "tags": [
+        "game"
+    ]
+}

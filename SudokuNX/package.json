@@ -1,0 +1,20 @@
+{
+    "name": "SudokuNX",
+    "author": "ZetaDesigns",
+    "description": "SudokuNX is an open-source Sudoku game for the Nintendo Switch.\\n\\nThis was actually my first project with SDL2.\\n\\nFeatures:\\n- create random Sudoku\\n- detect when Sudoku is solved\\n\\nTo-Do:\\n- Touchscreen input\\n- Difficulties\\n\\nIf you encounter any Issues or have feature requests feel free to open an Issue on the repository!\\n\\nSpecial Thanks to @Doodil who helped me a lot with the generator!",
+    "install_subfolder": "switch/SudokuNX",
+    "pattern": [
+        [
+            "SudokuNX"
+        ],
+        ".nro"
+    ],
+    "license": "GPLv3",
+    "package": "SudokuNX",
+    "release_api": "https://api.github.com/repos/ZetaDesigns/SudokuNX/releases",
+    "website": "https://github.com/ZetaDesigns/SudokuNX/releases",
+    "category": "games",
+    "tags": [
+        "game"
+    ]
+}

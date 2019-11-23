@@ -1,0 +1,20 @@
+{
+    "name": "Payload-Launcher",
+    "author": "LordApple",
+    "description": "To make payloads show up in the app, just add your payloads to sdmc:/payloads/ and the app should find them all. Thanks to SciresM For being a lawyer, and creating the reboot to payload code. and XorTroll For taking on too many projects, and creating Plutonium.",
+    "install_subfolder": "switch/PayloadLauncher",
+    "pattern": [
+        [
+            "payload_launcher"
+        ],
+        ".nro"
+    ],
+    "license": "GPLv2",
+    "package": "Payload-Launcher-Apple",
+    "release_api": "https://api.github.com/repos/LordApple/Payload-Launcher/releases",
+    "website": "https://github.com/LordApple/Payload-Launcher/releases",
+    "category": "homebrew",
+    "tags": [
+        "tool"
+    ]
+}

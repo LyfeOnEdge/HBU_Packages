@@ -1,0 +1,20 @@
+{
+    "name": "Kosmos Updater",
+    "author": "NicholeMattera",
+    "description": "A homebrew application for the Nintendo Switch that will automatically update your CFW with the latest from Kosmos.",
+    "install_subfolder": "switch/KosmosUpdater",
+    "pattern": [
+        [
+            "KosmosUpdater"
+        ],
+        ".nro"
+    ],
+    "license": "GPLv2",
+    "package": "SDFileUpdater",
+    "release_api": "https://api.github.com/repos/AtlasNX/Kosmos-Updater/releases",
+    "website": "https://github.com/AtlasNX/Kosmos-Updater/releases",
+    "category": "homebrew",
+    "tags": [
+        "homebrew"
+    ]
+}

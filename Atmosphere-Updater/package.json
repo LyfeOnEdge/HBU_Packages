@@ -1,0 +1,21 @@
+{
+    "name": "atmosphere-updater",
+    "author": "ITotalJustice",
+    "description": "The app currently has 5 main options.\\n\\nFull Atmosphere Update:\\n\\nDownloads the latest Atmosphere release and installs everything from that release.\\nUpdate Atmosphere, not overwriting .ini files:\\n\\nDownloads the latest Atmosphere release and installs everything from that release ignoring .ini files.\\nThis option will still install any missing .ini files, ensuring that the update will function correctly.\\nUpdate Hekate:\\n\\nInstalls the latest release of Hekate.\\nOption to install latest Atmosphere as well, when selecting update Hekate.\\nIf option to update Hekate + Atmosphere is selected, the new fusee-primary.bin is copied to /bootloader/payloads/fusee-primary.bin.\\nReplaces /atmosphere/reboot_payload.bin with the new Hekate payload.\\nCopies new Hekate payload to /bootloader/update.bin.\\nUpdate App:\\n\\nDownloads the latest version of this app straight from github!\\nDeletes the previous old version.\\nReboot (reboot to payload):\\n\\nReboots the switch, loading the payload from /atmosphere/reboot_payload.bi.\\nThis is recommended after install Atmosphere.\\nUpdating Atmosphere / Hekate automatically includes the needed reboot_payload.bin.\\nSpecial Thanks!\\ntoph for the design of the app icon, as well as the most icons used within the app!\\n\\nBlack Rabbit for the design of the plus and error icon (and the idea for this app)!\\n\\nbandithedoge for the background!\\n\\n",
+    "install_subfolder": "switch/Atmosphere-Updater",
+    "pattern": [
+        [
+            "atmosphere-updater"
+        ],
+        ".nro"
+    ],
+    "license": "GPLv2",
+    "package": "Atmosphere-Updater",
+    "release_api": "https://api.github.com/repos/ITotalJustice/atmosphere-updater/releases",
+    "website": "https://github.com/ITotalJustice/atmosphere-updater/releases",
+    "category": "homebrew",
+    "tags": [
+        "tool",
+        "updater"
+    ]
+}

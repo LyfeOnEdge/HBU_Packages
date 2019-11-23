@@ -1,0 +1,20 @@
+{
+    "name": "eBookReaderSwitch",
+    "author": "SeanOMik",
+    "description": "This is a project I've recently just started working on again. Currently its using MuPDF as its backend. Currently only most pdf files work.\\n\\nCurrent State:\\n\\nIt finally works!\\nSo far, only MOST of the PDF files I've tested works.\\nJust about ALL of the code isn't even mine but taken from an old commit of NX-Shell.",
+    "install_subfolder": "switch/eBookReaderSwitch",
+    "pattern": [
+        [
+            "eBookReaderSwitch"
+        ],
+        ".nro"
+    ],
+    "license": "n/a",
+    "package": "eBookReaderSwitch",
+    "release_api": "https://api.github.com/repos/SeanOMik/eBookReaderSwitch/releases",
+    "website": "https://github.com/SeanOMik/eBookReaderSwitch/releases",
+    "category": "homebrew",
+    "tags": [
+        "tool"
+    ]
+}

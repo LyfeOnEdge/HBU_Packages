@@ -1,0 +1,20 @@
+{
+    "name": "libtransistor-examples",
+    "author": "ReSwitched",
+    "description": "This pack contains a series of test programs from ReSwitched.\\nHit the source button to find the source code and usage instructions and more info.",
+    "install_subfolder": "switch",
+    "pattern": [
+        [
+            "tests_nro"
+        ],
+        ".zip"
+    ],
+    "license": "ISC License",
+    "package": "libtransistor-examples",
+    "release_api": "https://api.github.com/repos/reswitched/libtransistor/releases",
+    "website": "https://github.com/reswitched/libtransistor",
+    "category": "homebrew",
+    "tags": [
+        "concept"
+    ]
+}

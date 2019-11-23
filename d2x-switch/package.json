@@ -1,0 +1,20 @@
+{
+    "name": "dx2-switch",
+    "author": "aagallag",
+    "description": "A Nintendo Switch port of Descent II. This is a fork of DXX-Retro, which is a fork of DXX-Rebirth, which is a fork of the original engine source code created by Parallax Software Corporation.\\n\\nCopy descent2.ham, descent2.hog, descent2.s22, and all *.pig files to switch/d2x-switch directory. These files are included with a purchase of the game. Tested with Descent II from Steam.\\n\\n\\nKnown issues and missing features\\nMultiple save files don't work (currently hardcoded to player.plr)\\nDoesn't support the joysticks\\nNo music\\nOnly tested with the Descent files from Steam; GOG and CD-ROM releases have not been tested\\nDoesn't utilize 1080p resolution when docked\\nNeed an icon\\nResize the text for larger resolutions (Bug only on D1X Switch)\\nEnable the original HUD\\nNetwork/Multiplayer is not enabled\\nLevel Selection menu doesn't work (no way to input a different level)\\n\\nDXX Retro is released under the D1X-Rebirth License ",
+    "install_subfolder": "switch/d2x-switch",
+    "pattern": [
+        [
+            "d2x-switch"
+        ],
+        ".zip"
+    ],
+    "license": "none",
+    "package": "d2x-switch",
+    "release_api": "https://api.github.com/repos/aagallag/DXX-Switch/releases",
+    "website": "https://github.com/aagallag/DXX-Switch/releases",
+    "category": "games",
+    "tags": [
+        "game"
+    ]
+}

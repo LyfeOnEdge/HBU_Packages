@@ -1,0 +1,20 @@
+{
+    "name": "Triplane Turmoil",
+    "author": "sergiou87",
+    "description": "Intro\\n=====\\n\\nTriplane Classic is a side-scrolling dogfighting game featuring solo\\nmissions and multiplayer mode with up to four players. It is a port of\\nthe original Triplane Turmoil game for DOS and aims to match the\\noriginal game exactly so that high scores remain comparable to the\\noriginal.\\n\\nThis is a fork of the original port of the game (http://triplane.sourceforge.net/)\\nbut updated to SDL2, so that is easier to port to other platforms.\\nIt also adds support for 4 XInput game controllers instead of only\\n2 joysticks.\\n\\nPlease read the manual page for information on how to actually play\\nthe game. Also see README.install if you want to build the game from\\nsource code.\\n\\nNintendo Switch Port\\n====================\\n\\nThe Nintendo Switch port has been built using DevkitPro (https://devkitpro.org/)\\nand libnx (https://github.com/switchbrew/libnx).\\n\\nThe whole game should be playable, controls have been adapted to the\\nSwitch, including the use of the touch screen or the left joystick\\nand the A button as a mouse to navigate the menus.\\n\\nThe roster is not functional yet, as you cannot input text, so 4\\nplayers are created by default, which have assigned the corresponding\\ngamepad to their player number.\\n\\nThe default controls are:\\n- Up/Down: left joystick or directional pad\\n- Guns: Y button\\n- Bombs: B button\\n- Roll: X button\\n- Power: R button\\n- Exit/back: - button\\n- Help: + button\\n\\nTrademarks\\n==========\\n\\nTriplane Turmoil is a trademark of Dodekaedron Software\\nCreations Oy.\\n\\nTriplane Turmoil 2 is a trademark of Draconus Entertainment Ltd.\\n\\nTriplane Classic is not a trademark. However, if you make substantial\\nmodifications that, for example, change the scoring system, we\\nencourage you to pick a new name for your modified game so that users\\nare not confused.\\n\\nContact\\n=======\\n\\nTeemu J. Takanen <tjt@users.sourceforge.net>\\n\\nTimo Juhani Lindfors <timo.lindfors@iki.fi>\\n\\n",
+    "install_subfolder": null,
+    "pattern": [
+        [
+            "triplane-turmoil"
+        ],
+        "switch.zip"
+    ],
+    "license": "GPLv3",
+    "package": "Triplane_Turmoil",
+    "release_api": "https://api.github.com/repos/sergiou87/triplane-turmoil/releases",
+    "website": "https://github.com/sergiou87/triplane-turmoil/releases",
+    "category": "games",
+    "tags": [
+        "game"
+    ]
+}

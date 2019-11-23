@@ -1,0 +1,20 @@
+{
+    "name": "Arkanoid NX",
+    "author": "Manurocker95",
+    "description": "Arkanoid port for the nintendo switch.\\n\\nSplash screen, title screen and game screen\\nMusic and SFX\\nMusic and Images rendered with SDL2\\nSettings and game data saved in a JSON in switch/manurocker95/ArkanoidNX/data.sav\\nMultilanguage support (just Spanish and English for now)\\nResources loaded from RomFS",
+    "install_subfolder": "switch/Arkanoid_NX",
+    "pattern": [
+        [
+            "Arkanoid_NX"
+        ],
+        ".nro"
+    ],
+    "license": "GPLv3",
+    "package": "ArkanoidNX",
+    "release_api": "https://api.github.com/repos/Manurocker95/ArkanoidNX/releases",
+    "website": "https://github.com/Manurocker95/ArkanoidNX/releases",
+    "category": "games",
+    "tags": [
+        "game"
+    ]
+}

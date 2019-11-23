@@ -1,0 +1,21 @@
+{
+    "name": "Dokkaebi Hack",
+    "author": "NicholeMattera",
+    "description": "Animated Demo using SDL on the Switch.\\n\\nInitial Release. There is no vibration and you can press 'A' to quit.",
+    "install_subfolder": "switch",
+    "pattern": [
+        [
+            "DokkaebiHack"
+        ],
+        ".nro"
+    ],
+    "license": "GPLv2",
+    "package": "DokkaebiHack",
+    "release_api": "https://api.github.com/repos/NicholeMattera/DokkaebiHack/releases",
+    "website": "https://github.com/StevenMattera/DokkaebiHack/releases",
+    "category": "games",
+    "tags": [
+        "_misc",
+        "game"
+    ]
+}

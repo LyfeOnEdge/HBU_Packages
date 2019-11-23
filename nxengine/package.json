@@ -1,0 +1,20 @@
+{
+    "name": "NXEngine-evo",
+    "author": "nxengine",
+    "description": "Cave Story / Doukutsu Monogatari is a Japanese freeware PC side-scrolling platformer game from 2004.\\n\\nThis is a reimplementation of the original freeware game engine, using its data files.\\nIt has nothing to do with Cave Story+ (published by Nicalis and being an actual, official Switch game).",
+    "install_subfolder": "switch/nxengine-evo",
+    "pattern": [
+        [
+            "NXEngine"
+        ],
+        ".nro"
+    ],
+    "license": "GPLv3",
+    "package": "nxengine",
+    "release_api": "https://api.github.com/repos/nxengine/nxengine-evo/releases",
+    "website": "https://github.com/nxengine/nxengine-evo/releases",
+    "category": "games",
+    "tags": [
+        "game"
+    ]
+}

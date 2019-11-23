@@ -1,0 +1,20 @@
+{
+    "name": "Evolution Saved Me NX",
+    "author": "Manurocker95",
+    "description": "Evolution Saved Me port for the switch.\\n\\nDev has little no info recorded for this release.",
+    "install_subfolder": "switch/Evolution_Saved_Me_NX",
+    "pattern": [
+        [
+            "Evolution_Saved_Me_NX"
+        ],
+        ".nro"
+    ],
+    "license": "GPLv3",
+    "package": "Evolution_saved_me_NX",
+    "release_api": "https://api.github.com/repos/Manurocker95/Evolution-Saved-Me-NX/releases",
+    "website": "https://github.com/Manurocker95/Evolution-Saved-Me-NX/releases",
+    "category": "games",
+    "tags": [
+        "game"
+    ]
+}

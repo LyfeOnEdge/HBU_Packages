@@ -1,0 +1,20 @@
+{
+    "name": "Shared Font Dumper",
+    "author": "simonmkwii",
+    "description": "I made a shared font dumper! Shared fonts are used by certain games to display text.",
+    "install_subfolder": "switch/sharedfontdumper",
+    "pattern": [
+        [
+            "sfdumper"
+        ],
+        ".nro"
+    ],
+    "license": "n/a",
+    "package": "sharedfontdumper",
+    "release_api": "https://api.github.com/repos/simonmkwii/SharedFontDumper/releases",
+    "website": "https://github.com/simonmkwii/SharedFontDumper/releases",
+    "category": "homebrew",
+    "tags": [
+        "tool"
+    ]
+}

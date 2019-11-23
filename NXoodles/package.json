@@ -1,0 +1,20 @@
+{
+    "name": "NXoodles!",
+    "author": "MrJPGames",
+    "description": "Looking for a relaxing, strategic and addictive puzzle? Find your Zen and become one with Noodles! Tap to spin and connect all the noodle pieces \u2013 once you solve a puzzle, figure out the strategy and beat your own score to get FIVE STARS!",
+    "install_subfolder": "switch/NXoodles",
+    "pattern": [
+        [
+            "NXoodles"
+        ],
+        ".nro"
+    ],
+    "license": "GPLv3",
+    "package": "NXoodles",
+    "release_api": "https://api.github.com/repos/MrJPGames/Noodles-/releases",
+    "website": "https://github.com/MrJPGames/Noodles-/releases",
+    "category": "games",
+    "tags": [
+        "game"
+    ]
+}

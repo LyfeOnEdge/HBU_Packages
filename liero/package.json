@@ -1,0 +1,21 @@
+{
+    "name": "Liero",
+    "author": "idle_zealot",
+    "description": "This is the fork of Liero made by and for the Nintendo Switch homebrew community of Liero players. Compared to Leiro (orbmit edition) it contains:\\n\\nRun on the Nintendo Switch\\n\\nThat's right! This is a straight port of the orbmit edition to the Switch. It relies on libnx and the associated SDL2 implementation.",
+    "install_subfolder": "switch/liero",
+    "pattern": [
+        [
+            "liero",
+            "openliero"
+        ],
+        ".nro"
+    ],
+    "license": ".",
+    "package": "liero",
+    "release_api": "https://api.github.com/repos/bmollot/liero/releases",
+    "website": "https://github.com/bmollot/liero/releases",
+    "category": "games",
+    "tags": [
+        "game"
+    ]
+}

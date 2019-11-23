@@ -1,0 +1,20 @@
+{
+    "name": "Bermuda Syndrome",
+    "author": "usineur",
+    "description": "This program is a re-implementation of the engine used in the game Bermuda\\nSyndrome made by Century Interactive and published by BMG in 1995. The original\\ndata files are required (retail or demo versions).\\n\\nThis rewrite is based on the reversing of the original Windows executable.\\n\\nControls:\\nKeys    \u202f\\nArrow Keys    Move Jack\\nA    Interact / Skip dialogues or cutscenes\\nB    Run / Put away weapon\\nX    Use weapon / Pull out weapon\\nY    Display bag\\n+    Open menu\\n-    Toggle 1:1 / fullscreen\\nL / R    Quick load / save\\nZL / ZR    Decrease / Increase game state slot\\n\\nCredits:\\n\\nCyx (Gr\u00e9gory Montoir) for original reverse work and modern engine.",
+    "install_subfolder": "switch/bs",
+    "pattern": [
+        [
+            "bs"
+        ],
+        ".nro"
+    ],
+    "license": "n/a",
+    "package": "bs",
+    "release_api": "https://api.github.com/repos/usineur/bermuda/releases",
+    "website": "https://github.com/usineur/bermuda/releases",
+    "category": "games",
+    "tags": [
+        "game"
+    ]
+}

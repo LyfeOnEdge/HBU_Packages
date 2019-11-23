@@ -1,0 +1,20 @@
+{
+    "name": "PlayerNX",
+    "author": "XorTroll",
+    "description": "a WIP video player for Nintendo Switch homebrew (using ffmpeg libraries)\\n\\nPlays the MP4 placed at 'sdmc:/media/video.mp4'. It should automatically stop playback for any found errors, so crashes should not occur.\\nAudio is still not working (I need to fix some stuff and learn how to use audout service on libnx properly)\\nThe playback is a bit laggy, but it still shows up ok.\\nEnjoy playing videos from anytime, anywhere!",
+    "install_subfolder": "switch/PlayerNX",
+    "pattern": [
+        [
+            "PlayerNX"
+        ],
+        ".nro"
+    ],
+    "license": "n/a",
+    "package": "PlayerNX",
+    "release_api": "https://api.github.com/repos/XorTroll/PlayerNX/releases",
+    "website": "https://github.com/XorTroll/PlayerNX/releases",
+    "category": "homebrew",
+    "tags": [
+        "homebrew"
+    ]
+}

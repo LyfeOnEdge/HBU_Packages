@@ -1,0 +1,20 @@
+{
+    "name": "Pickr",
+    "author": "BernardoGiordano",
+    "description": "Pickr is a port of the game Pickr3DS by BernardoGiordano.\\n\\nThe original idea was founded by Sean M. Tracey.\\n\\n The objective of the game is to tap the odd colour found on the screen until you run out of lives.",
+    "install_subfolder": "switch",
+    "pattern": [
+        [
+            "Pickr"
+        ],
+        ".nro"
+    ],
+    "license": ".",
+    "package": "Pickr",
+    "release_api": "https://api.github.com/repos/BernardoGiordano/Pickr/releases",
+    "website": "https://github.com/BernardoGiordano/Pickr/tree/master/switch",
+    "category": "games",
+    "tags": [
+        "game"
+    ]
+}

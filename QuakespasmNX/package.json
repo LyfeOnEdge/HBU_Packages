@@ -1,0 +1,21 @@
+{
+    "name": "QuakespasmNX",
+    "author": "fgsfdsfgs",
+    "description": "Switch port of Quakespasm. Uses SDL2 as the backend, supports OGG and MP3 music and most other features of Quakespasm.\\n\\nSome of the features of the port:\\n\\nhardware-accelerated OpenGL 2.x-based rendering in 1280x720;\\nsound, including support for OGG and MP3 music tracks;\\nsupports the Mission Packs and other mods compatible with Quakespasm (Quoth, Arcane Dimensions), with a simple mod selector menu;\\nanalog controls and shit;\\nmost other features of Quakespasm, such as:\\nadvanced renderer with cool stuff, such as colored lighting, fog, translucent water, high-res textures, model interpolation, etc;\\nscalable, optionally translucent HUD and menus;\\nmusic support, as mentioned earlier;\\nraised engine limits;\\nbuilt-in controller support, which means I had to do basically nothing to make it work on the Switch.\\n\\nTHIS DOWNLOAD COMES COMPLETE WITH THE SHAREWARE PAK, if you have your own copy please refer to the source link for instructions.",
+    "install_subfolder": "switch",
+    "pattern": [
+        [
+            "quakespasmnx"
+        ],
+        ".zip"
+    ],
+    "license": "n/a",
+    "package": "QuakespasmNX",
+    "release_api": "https://api.github.com/repos/fgsfdsfgs/QuakespasmNX/releases",
+    "website": "https://github.com/fgsfdsfgs/QuakespasmNX/releases",
+    "category": "games",
+    "tags": [
+        "game",
+        "engine"
+    ]
+}

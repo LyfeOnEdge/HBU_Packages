@@ -1,0 +1,20 @@
+{
+    "name": "pinballnx",
+    "author": "minkcv",
+    "description": "A homebrew pinball game for the nintendo switch. Currently a work in progress.\\n\\nTake the joycons off and turn the display to portrait.\\n\\nControls :\\n----------\\n\\nFlippers: L and R\\nPull Plunger: Either Stick Down\\nPause: Minus\\nNew Game: B\\nQuit: Plus",
+    "install_subfolder": "switch",
+    "pattern": [
+        [
+            "pinballnx"
+        ],
+        ".zip"
+    ],
+    "license": "MIT",
+    "package": "pinballnx",
+    "release_api": "https://api.github.com/repos/minkcv/pinballnx/releases",
+    "website": "https://github.com/minkcv/pinballnx/releases",
+    "category": "games",
+    "tags": [
+        "game"
+    ]
+}

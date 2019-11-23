@@ -1,0 +1,20 @@
+{
+    "name": "Y'allAreNUTs",
+    "author": "3096",
+    "description": "Use UP & DOWN to select a save. LEFT & RIGHT to skip 5 saves.\\nPress A to dump save files into 'save/' or press Y for 'save/{titleID}/{userID}/' (will overwrite whatever's already in there.)\\nPress ZR to dump all saves\\nPress X to inject all files that are present in inject/ (For now, don't put too many file at one time. Only put 1 folder for botw save for example. Use at your own risk and always have backups)\\nPress PLUS to quit when not copying files.\\n\\nSince console output doesn't support UTF-8, you can press R to show title ID instead. When you see garbled text (Japanese names, for example) you can manually look up a title here.\\nAvoid using this while the Switch is docked, as in my testing docked mode seems unstable and sometimes crashes.\\n\\nI only made a release of this homebrew because I saw people trying to get builds of my previous versions and it got quite messy... This is by no means a formal program for the long term. It's just a filler for people who are too impatient to wait for Checkpoint's stable version on 5.0.",
+    "install_subfolder": "switch",
+    "pattern": [
+        [
+            "nut"
+        ],
+        ".nro"
+    ],
+    "license": "none",
+    "package": "yallarenuts",
+    "release_api": "https://api.github.com/repos/3096/nut/releases",
+    "website": "https://github.com/3096/nut/releases/",
+    "category": "homebrew",
+    "tags": [
+        "tool"
+    ]
+}

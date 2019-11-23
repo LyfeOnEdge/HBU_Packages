@@ -1,0 +1,20 @@
+{
+    "name": "SDL-Lopan",
+    "author": "nop90, Dave Ashley",
+    "description": "A classic remake of Linux Lopan (a Mahjong solitaire clone) by Dave Ashley.\\n\\nLike other Mahjongg games, you try to remove all the pieces.\\n To remove pieces you must select a pair of pieces with the same drawing.\\nI made this port to test the touch screen support and the full screen zoom in my libSDL.\\\\n It's nothing special, but since it's finished I release it..",
+    "install_subfolder": null,
+    "pattern": [
+        [
+            "SDLLopan-switch"
+        ],
+        ".zip"
+    ],
+    "license": "n/a",
+    "package": "SDLlopan",
+    "release_api": "https://api.github.com/repos/Nop90-Switch/SDLLopan-SWITCH/releases",
+    "website": "https://github.com/Nop90-Switch/SDLLopan-SWITCH/releases",
+    "category": "games",
+    "tags": [
+        "game"
+    ]
+}

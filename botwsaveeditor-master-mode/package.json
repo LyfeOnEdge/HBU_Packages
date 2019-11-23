@@ -1,0 +1,20 @@
+{
+    "name": "BOTW Save Editor",
+    "author": "Jpe230",
+    "description": "I made this simple Homebrew app to edit your rupees, weapon durability and arrow quantity.\\n\\nIt is still a WIP, I've got much to improve.\\n\\nInstructions:\\n\\nOpen BOTW with your current user. Wait until the title screen, then exit it. (Close the game, too);\\nOpen the Save Editor and select save file slot. (Usually it is 5 or 0).\\nUse DPAD UP/Down to Increase/Decrease the integer. Use DPAD Left/Right to move the cursor.\\nUse L/R to move between items.\\nPress A to Commit Changes.\\nPress + to exit.",
+    "install_subfolder": "switch/botwsaveeditor",
+    "pattern": [
+        [
+            "BOTW-Save-File-Editor-Master-Mode.nro"
+        ],
+        ".nro"
+    ],
+    "license": "N/A",
+    "package": "botwsaveeditor",
+    "release_api": "https://api.github.com/repos/Jpe230/BOTW-Save-File-Editor/releases",
+    "website": "https://github.com/Jpe230/BOTW-Save-File-Editor/releases",
+    "category": "homebrew",
+    "tags": [
+        "tool"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Blobby-Volley-2-Switch",
+    "author": "SilentFlyBy",
+    "description": "This is a port of the popular Volleyball game you all know from the good old LAN-party days. This is still in heavy WIP, so expect some features to be broken.\\n\\nWhat works:\\nLocal play with 2 full controllers (\"full\" means no \"single-mode\" Joycons)\\nBots and custom bot scripts\\nRuleset scripts\\n",
+    "install_subfolder": "switch",
+    "pattern": [
+        [
+            "blobby"
+        ],
+        ".zip"
+    ],
+    "license": "GPLv2",
+    "package": "blobby",
+    "release_api": "https://api.github.com/repos/SilentFlyBy/Blobby-Volley-2-Switch/releases",
+    "website": "https://github.com/SilentFlyBy/Blobby-Volley-2-Switch/releases",
+    "category": "games",
+    "tags": [
+        "game"
+    ]
+}

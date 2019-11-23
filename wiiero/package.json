@@ -1,0 +1,20 @@
+{
+    "name": "Wiiero",
+    "author": "KeeganatorP",
+    "description": "Port of wiiero (Liero for Wii) to Nintendo Switch\\n\\nSound is currently broken.",
+    "install_subfolder": "switch",
+    "pattern": [
+        [
+            "wiiero"
+        ],
+        ".zip"
+    ],
+    "license": ".",
+    "package": "wiiero",
+    "release_api": "https://api.github.com/repos/KeeganatorP/wiiero-switch/releases",
+    "website": "https://github.com/KeeganatorP/wiiero-switch",
+    "category": "games",
+    "tags": [
+        "game"
+    ]
+}

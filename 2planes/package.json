@@ -1,0 +1,20 @@
+{
+    "name": "2 Planes",
+    "author": "mactec0",
+    "description": "Nintendo Switch homebrew game",
+    "install_subfolder": "switch/2planes",
+    "pattern": [
+        [
+            "2PlanesSwitch"
+        ],
+        ".nro"
+    ],
+    "license": "none",
+    "package": "2planes",
+    "release_api": "https://api.github.com/repos/mactec0/2Planes_SWITCH/releases",
+    "website": "https://github.com/mactec0/2Planes_SWITCH/releases",
+    "category": "games",
+    "tags": [
+        "game"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Cpp-Snake-NX",
+    "author": "CompSciOrBust",
+    "description": "A simple snake game written in c++ by NULLx76 and ported to the Nintendo Switch by CompSciOrBust.",
+    "install_subfolder": "switch/Cpp-Snake-NX",
+    "pattern": [
+        [
+            "Cpp-Snake-NX"
+        ],
+        ".nro"
+    ],
+    "license": "n/a",
+    "package": "Cpp-Snake-NX",
+    "release_api": "https://api.github.com/repos/CompSciOrBust/Cpp-Snake-NX/releases",
+    "website": "https://github.com/CompSciOrBust/Cpp-Snake-NX/releases",
+    "category": "games",
+    "tags": [
+        "game"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "name": "EasyPower",
+    "author": "klockee",
+    "description": "A quick utility to reboot the Nintendo Switch - load the .nro through hbmenu or any other method to reboot the console immediately.",
+    "install_subfolder": "switch/Easypower",
+    "pattern": [
+        [
+            "Easypower"
+        ],
+        ".nro"
+    ],
+    "license": ".",
+    "package": "easypower",
+    "release_api": "https://api.github.com/repos/klockee/EasyPower/releases",
+    "website": "https://github.com/klockee/EasyPower/releases",
+    "category": "homebrew",
+    "tags": [
+        "tool"
+    ]
+}

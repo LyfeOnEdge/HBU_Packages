@@ -1,0 +1,20 @@
+{
+    "name": "nxsh",
+    "author": "Cesura",
+    "description": "About\\nI started this project as a convenient way to interact with the Switch over the network. Simply run the provided .nro file included and connect to your device via port 5050 to access a Unix-esque shell. A full list of currently-supported commands can be provided by typing 'help' at the prompt.\\n\\nFor more information, or to report a bug, check out the project on GitHub:\\nhttps://github.com/Cesura/nxsh\\n\\nConnecting \\nLinux/BSD/Mac OS\\nFirst ensure that you have the 'telnet' client installed on your local machine (it may or may not be bundled with your base distribution). For Mac users, I recommend installing the client via the Homebrew package manager. Then, connect in via:\\n\\n$ telnet [IP address] 5050\\n\\nWindows\\nThe built-in Windows telnet client does not play nicely with nxsh, so I recommend installing PuTTY. Note that connecting via a \"raw\" connection instead of a 'telnet' one will avoid a pesky 'command not found' message upon initialization of the shell. The telnet protocol sends some garbage text as it's negotiating the connection, so if you want a clean-looking shell, ditch that and go for a raw socket.",
+    "install_subfolder": "switch/nxsh",
+    "pattern": [
+        [
+            "nxsh"
+        ],
+        ".nro"
+    ],
+    "license": "BSD v3",
+    "package": "nxsh",
+    "release_api": "https://api.github.com/repos/Cesura/nxsh/releases",
+    "website": "https://github.com/Cesura/nxsh/releases",
+    "category": "homebrew",
+    "tags": [
+        "tool"
+    ]
+}

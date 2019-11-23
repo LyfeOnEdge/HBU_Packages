@@ -1,0 +1,20 @@
+{
+    "name": "nx-midi",
+    "author": "Cyuubi",
+    "description": "\\nPlay MIDI files on your Nintendo Switch!\\n\\nUsage\\n\\nPlace any .sf2 and .mid file on the root of your SD card called default.sf2 and default.mid and enjoy!\\n\\nCredits\\n\\nschellingb - TinySoundFont (includes MIDI parser + soundfont engine)",
+    "install_subfolder": "switch/nx-midi",
+    "pattern": [
+        [
+            "nx-midi"
+        ],
+        ".nro"
+    ],
+    "license": "n/a",
+    "package": "nx-midi",
+    "release_api": "https://api.github.com/repos/Cyuubi/nx-midi/releases",
+    "website": "https://github.com/Cyuubi/nx-midi/releases",
+    "category": "homebrew",
+    "tags": [
+        "tool"
+    ]
+}

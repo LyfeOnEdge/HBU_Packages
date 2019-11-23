@@ -1,0 +1,20 @@
+{
+    "name": "Game-example",
+    "author": "Dontwait00",
+    "description": "(wip) game-example\\n\\nreally very basic game-example homebrew for switch",
+    "install_subfolder": "switch/game-example",
+    "pattern": [
+        [
+            "game-example"
+        ],
+        ".nro"
+    ],
+    "license": "N/A",
+    "package": "game-example",
+    "release_api": "https://api.github.com/repos/Dontwait00/game-example/releases",
+    "website": "https://github.com/Dontwait00/game-example/releases",
+    "category": "games",
+    "tags": [
+        "game"
+    ]
+}

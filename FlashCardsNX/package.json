@@ -1,0 +1,20 @@
+{
+    "name": "FlashCardsNX",
+    "author": "CompSciOrBust",
+    "description": "A flash cards app for the Nintendo Switch\\n\\nThis is a rewrite of my Nintendo Switch flash cards app which I nver made public until now.\\n\\nHow to use\\nPlace a text file in /config/cards/ on your sd card. If multiple files are found you will be given the option of which one you want to use when starting the app.\\n\\nThe questions and answers are seperated on each line. A line containing a question should be followed by a line containing a answer.\\n\\n\\nCredits\\nLibNX and DevkitPro for making the toolchain.\\n\\nDalton Maag for the Ubuntu font.\\n\\nEveryone in the AtlasNX discord developer chat for helping me with the first version. This is a complete rewrite but I would not have been able to complete the first version without their help because it was my first SDL project.\\n\\nI got the icon a while ago and I can't remember who made it but it was marked as reuse with modification on Google Images.\\n\\n",
+    "install_subfolder": "switch",
+    "pattern": [
+        [
+            "FlashCardsNX"
+        ],
+        ".nro"
+    ],
+    "license": "n/a",
+    "package": "FlashCardsNX",
+    "release_api": "https://api.github.com/repos/CompSciOrBust/FlashCardsNX/releases",
+    "website": "https://github.com/CompSciOrBust/FlashCardsNX/releases",
+    "category": "homebrew",
+    "tags": [
+        "tool"
+    ]
+}

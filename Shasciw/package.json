@@ -1,0 +1,21 @@
+{
+    "name": "Shasciw",
+    "author": "R1ckyman",
+    "description": "Game info:\\nASCII shooter game for up to 8 players\\nThe objective is to eliminate the others player (or enemy team in the future).\\nTurn based game, with special objects to help you.\\nObjects which upgrades players stats.\\nTODO:\\nAdd settings.ini\\nAdd a team selector.\\nAdd save/load game.\\nControls\\nJoycons are held horizontal\\n\\n[Left Joycon]\\n\\n[Keyboard]\\nDPAD (\u2191,\u2193,\u2192,\u2190) to select a letter and SL to enter.\\nZL to switch caps.\\n[Game]\\nDPAD (\u2191,\u2193,\u2192,\u2190) for moving the character.\\nSL for action or to use a selected object.\\nSR to open the inventory.\\nAfter action selected, DPAD (\u2191,\u2193,\u2192,\u2190) to select the direction.\\n[Right Joycon]\\n\\n[Keyboard]\\nX,B,A,Y to select a letter and SL to enter.\\nSR to select caps.\\n[Game]\\nX,B,A,Y for moving the character.\\nSL for action or to use a selected object.\\nSR to open the inventory.\\nAfter action selected, X,B,A,Y to select the direction.",
+    "install_subfolder": "switch/Shasciw",
+    "pattern": [
+        [
+            "Shasciw",
+            "r2pg"
+        ],
+        ".nro"
+    ],
+    "license": "n/a",
+    "package": "Shasciw",
+    "release_api": "https://api.github.com/repos/R1ckyman/Shasciw/releases",
+    "website": "https://github.com/R1ckyman/Shasciw/releases",
+    "category": "games",
+    "tags": [
+        "game"
+    ]
+}

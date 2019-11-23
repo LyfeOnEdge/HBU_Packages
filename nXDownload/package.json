@@ -1,0 +1,20 @@
+{
+    "name": "nXDownload",
+    "author": "Dontwait00",
+    "description": "Download any file directly inside sdmc:/ on the Nintendo Switch\\n\\nComing big features, like downloading NSP & XCI games from a simple file containing multiple download links. And, if you're downloading a RAR/ZIP compression, it will automatically unrar/unzip it! (A new way to offer piracy to your Switch!)\\n\\nThis tool is pretty basic:\\n1 - Create a file .txt\\n2 - Add few lines with links\\n3 - Power on you're Switch, and start download you're file!\\nNOTE:\\nThis project uses my custom implementation of libcurl. You can use my own 'customCurl.h' header, without problems! Be sure at least to credit!\\n\\nuse command line \"pacman -S switch-curl\" inside Msys to be able to compile this program.\\nFeatures & ideas\\nAs this tool is pretty new, and lot of my freetime goes to debugging, probably will take much time before finishing it.\\nadd possibility to read a custom URL from sdmc:/switch/nXDownload/url.txt = Done!\\nadd pssibility to read multiple URL from 'url.txt'\\nadd support for plain URL's (meaning writing URL directly to the Switch!)\\nadd support for saving plain URL's (meaning written URL will be saved in a different file)\\nadd support for SDL2 projects!\\nfix major bugs!\\nAny idea you want i should add? Create a pull request: https://github.com/Dontwait00/nXDownload/pulls",
+    "install_subfolder": "switch/nXDownload",
+    "pattern": [
+        [
+            "nXDownload"
+        ],
+        ".nro"
+    ],
+    "license": "n/a",
+    "package": "nXDownload",
+    "release_api": "https://api.github.com/repos/Dontwait00/nXDownload/releases",
+    "website": "https://github.com/Dontwait00/nXDownload/releases",
+    "category": "homebrew",
+    "tags": [
+        "homebrew"
+    ]
+}

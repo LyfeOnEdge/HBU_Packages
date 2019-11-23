@@ -1,0 +1,20 @@
+{
+    "name": "MazeNX",
+    "author": "simontime",
+    "description": "A scary maze game clone for Switch\\n\\nControls:\\n\\nJoysticks/D-pad to move\\nHold ZR to move faster\\nOr:\\nTouch in the direction you want to go.\\nTouch with 2 or more fingers to move faster.\\nOr:\\nPlay via a mouse!",
+    "install_subfolder": "switch/MazeNX",
+    "pattern": [
+        [
+            "MazeNX"
+        ],
+        ".nro"
+    ],
+    "license": "MIT",
+    "package": "MazeNX",
+    "release_api": "https://api.github.com/repos/simontime/MazeNX/releases",
+    "website": "https://github.com/simontime/MazeNX/releases",
+    "category": "games",
+    "tags": [
+        "game"
+    ]
+}

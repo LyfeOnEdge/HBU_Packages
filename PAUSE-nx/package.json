@@ -1,0 +1,20 @@
+{
+    "name": "PAUSE-nx",
+    "author": "hamhub7",
+    "description": "To use this program, connect a USB keyboard to your pc and press the down arrow key to pause and unpause the game you are in. The right arrow key advances the game by one frame. Games can buffer inputs if you hold then during the pause then either unpause or frame advance. Each segment of puse to unpause is recorded in sdmc:/recordings labaled with the time and date. The files are in nx-TAS format, so you can replay your recorded TASes. Vists https://github.com/hamhub7/nx-TAS to dowload nx-TAS",
+    "install_subfolder": null,
+    "pattern": [
+        [
+            "PAUSE-nx"
+        ],
+        ".zip"
+    ],
+    "license": "n/a",
+    "package": "PAUSE-nx",
+    "release_api": "https://api.github.com/repos/hamhub7/PAUSE-nx/releases",
+    "website": "https://github.com/hamhub7/PAUSE-nx/releases",
+    "category": "homebrew",
+    "tags": [
+        "advanced"
+    ]
+}

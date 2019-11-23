@@ -1,0 +1,20 @@
+{
+    "name": "TetrisSwitch",
+    "author": "Ryuzaki-MrL",
+    "description": "It's freaking Tetris, but anyway:\\n\\n(<) / (>): move tetromino\\nHold (Down): soft drop (fast drop)\\n(Up): hard drop (instant drop)\\n(A) / (B): rotate\\n(X): change grid color\\n(L) / (R): hold tetromino\\n(+): pause; start over (after game over)\\n(-): quit game (while paused)",
+    "install_subfolder": "switch",
+    "pattern": [
+        [
+            "tetriswitch"
+        ],
+        ".nro"
+    ],
+    "license": "n/a",
+    "package": "tetrisswitch",
+    "release_api": "https://api.github.com/repos/Ryuzaki-MrL/tetriswitch/releases",
+    "website": "https://github.com/Ryuzaki-MrL/tetriswitch/releases",
+    "category": "games",
+    "tags": [
+        "game"
+    ]
+}

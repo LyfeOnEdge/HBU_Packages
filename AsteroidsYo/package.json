@@ -1,0 +1,20 @@
+{
+    "name": "AsteroidsYo",
+    "author": "jaygriggs",
+    "description": "A Nintendo Switch Homebrew Game\\n\\nBrew.js is Node.js for embedded devices\\n\\nBrew.js version has many bugs including performance issues and also\\nFreezes when docked so it has been abandoned\\n\\nSwitchbrew C++ version 1.01 has no known bugs\\nPlease report issues through GitHub\\n\\nSpecial Thanks\\n\\nAiden Griggs (Quality Control)\\nXorTroll (Brew.js)\\nmactec0 (2Planes Codebase)\\nManurocker95 (Persistent Save Data)\\nModern Vintage Gamer (Switchbrew get started video)",
+    "install_subfolder": "switch/AsteroidsYo",
+    "pattern": [
+        [
+            "AsteroidsYo"
+        ],
+        ".nro"
+    ],
+    "license": "GPLv3",
+    "package": "AsteroidsYo",
+    "release_api": "https://api.github.com/repos/jaygriggs/AsteroidsYo/releases",
+    "website": "https://github.com/jaygriggs/AsteroidsYo/releases",
+    "category": "games",
+    "tags": [
+        "game"
+    ]
+}

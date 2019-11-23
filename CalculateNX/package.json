@@ -1,0 +1,20 @@
+{
+    "name": "CalculateNX",
+    "author": "CompSciOrBust",
+    "description": "A simple calculator for the Nintendo Switch.\\n\\nI made this to learn how touchscreens work with SDL. Only handheld mode it supported.\\n\\nCredits\\n\\nLibNX and DevkitPro for making the toolchain.\\n\\nDalton Maag for the Ubuntu font.",
+    "install_subfolder": "switch/CalculateNX",
+    "pattern": [
+        [
+            "CalculateNX"
+        ],
+        ".nro"
+    ],
+    "license": "n/a",
+    "package": "CalculateNX",
+    "release_api": "https://api.github.com/repos/CompSciOrBust/CalculateNX/releases",
+    "website": "https://github.com/CompSciOrBust/CalculateNX/releases",
+    "category": "homebrew",
+    "tags": [
+        "tool"
+    ]
+}

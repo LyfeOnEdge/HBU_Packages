@@ -1,0 +1,20 @@
+{
+    "name": "Jump n Bump",
+    "author": "rsn8887",
+    "description": "Switch port of the classic multiplayer-only MS-DOS game Jump'n'Bump by Brainchild Design, based on the SDL2 port by Felix Haedicke.\\n\\nJump'n'Bump is a simple but addictive multiplayer game. The goal is to stomp as many other rabbits as possible to win the game.\\n\\nThanks to my supporters on Patreon: Andyways, CountDuckula, Greg Gibson, Jesse Harlin, \u00d6zg\u00fcr Karter, Matthew Machnee, and RadicalR.\\n\\nThanks to the many developers of the game, such as Mattias Brynervall, Andreas Brynervall, Anders Nilsson, and many more.\\n\\nThanks to Felix Haedicke for porting the game to SDL2 and Cmake.\\n\\nControls\\n\\nLeft analog stick / Dpad = move the character, up to four controllers are supported\\nB / Y / A / X = Jump\\nPlus/Minus/Select/Start = ESC (restart game/advance through statistic screens)\\nR (on controller 1) = toggle aspect ratio between original (default), 4:3, and 16:9\\nL (on controller 1) = toggle split Joycon mode on/off (Switch only)\\n\\nPhysical keyboard controls via Bluetooth (Vita) and USB (Switch):\\nCursor keys = white rabbit move and jump\\na d w = yellow rabbit move and jump\\ni j l = gray rabbit move and jump\\nKeypad 4 / 8 / 6 = brown rabbit move and jump",
+    "install_subfolder": "switch/jumpnbump",
+    "pattern": [
+        [
+            "jumpnbump_1.01_switch"
+        ],
+        ".zip"
+    ],
+    "license": "n/a",
+    "package": "jumpnbump",
+    "release_api": "https://api.github.com/repos/rsn8887/jumpnbum/releases",
+    "website": "https://github.com/rsn8887/jumpnbump/",
+    "category": "games",
+    "tags": [
+        "game"
+    ]
+}
