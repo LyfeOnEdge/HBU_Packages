@@ -11,7 +11,7 @@
     ],
     "license": "GPLv3",
     "package": "Avatool",
-    "release_api": "https://api.github.com/repos/J-D-K/Avatoo/releases",
+    "release_api": "https://api.github.com/repos/J-D-K/Avatool/releases",
     "website": "https://github.com/J-D-K/Avatool/releases",
     "category": "homebrew",
     "tags": [
