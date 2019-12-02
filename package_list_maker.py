@@ -10,3 +10,8 @@ with open("packages.json", mode='w+') as packagefile:
 	json.dump(packages, packagefile, indent=4)
 
 print("Found {} packages".format(len(packages)))
+
+packagestring = ""
+for package in packages:
+	packagestring += "{}, ".format(package)
+print(packagestring)
